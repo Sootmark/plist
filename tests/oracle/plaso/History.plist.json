@@ -1,0 +1,745 @@
+{
+ "dict": [
+  [
+   "WebHistoryFileVersion",
+   {
+    "integer": "1"
+   }
+  ],
+  [
+   "WebHistoryDates",
+   {
+    "array": [
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://www.youtube.com/watch?v=jm8iSg8eZdw"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "Glima Interview - YouTube"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "395010381.4"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://www.youtube.com/watch?v=rVGB1Z3btIY"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "Glima - Icelandic wrestling (1932) - YouTube"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "395009927.3"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://www.youtube.com/watch?v=NS1Si2XpNHs"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "Icelandic Glima Championship 2005 - YouTube"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "395009841.1"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://www.youtube.com/results?search_query=islensk+glima&oq=islensk+glima&gs_l=youtube.3...1341.6007.0.6374.13.13.0.0.0.0.115.862.9j4.13.0...0.0...1ac.1.11.youtube.QdRvkeRm6ys"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "islensk glima - YouTube"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "395009838.3"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://www.youtube.com/channel/HCtnHdj3df7iM"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "Popular on YouTube - Worldwide - YouTube"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "395009831.5"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "redirectURLs",
+        {
+         "array": [
+          {
+           "string": "http://www.youtube.com/results?search_query=islensk+glima&oq=islensk+glima&gs_l=youtube.3...1341.6007.0.6374.13.13.0.0.0.0.115.862.9j4.13.0...0.0...1ac.1.11.youtube.QdRvkeRm6ys"
+          }
+         ]
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://www.youtube.com/user/lhblovevnn"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "Huu Binh - YouTube"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "395009827.4"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://www.youtube.com/results?search_query=fost+a+halendi&oq=fost+a+halendi&gs_l=youtube.3...174264.179872.0.180096.14.13.0.1.1.0.121.770.12j1.13.0...0.0...1ac.1.11.youtube.zI_k4Vv0hsw"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "fost a halendi - YouTube"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "395009823.8"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://youtube.com/"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "YouTube"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "395009642.7"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "redirectURLs",
+        {
+         "array": [
+          {
+           "string": "http://www.youtube.com/"
+          }
+         ]
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://netverslun.sci-mx.is/aminosyrur"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "Am\u00edn\u00f3s\u00fdrur"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "395009634.0"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "https://ads.spoton.is/ad/click/%2B2BoasVqR4tvkzDOd7X9AsMszOyEcg5ZCUrglbO8pcFM4v24KQ%3D%3D"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "Sci-MX Evr\u00f3psk h\u00e1g\u00e6\u00f0a f\u00e6\u00f0ub\u00f3tarefni"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "395009585.1"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "redirectURLs",
+        {
+         "array": [
+          {
+           "string": "http://netverslun.sci-mx.is/"
+          }
+         ]
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://visir.is/fost-a-halendinu-i-tvo-solarhringa/article/2013130709317"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "V\u00edsir - F\u00f6st \u00e1 h\u00e1lendinu \u00ed tvo s\u00f3larhringa"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "394997460.5"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://visir.is/mat-throngvad-ofan-i-rappara/article/2013130709261"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "V\u00edsir - Mat \u00fer\u00f6ngva\u00f0 ofan \u00ed rappara"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "394997300.2"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://visir.is/fyrrverandi-framkvaemdastjori-ils-skyrslan-full-af-sludri-og-grousogum/article/2013130709266"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "V\u00edsir - Fyrrverandi framkv\u00e6mdastj\u00f3ri \u00cdLS: Sk\u00fdrslan full af sl\u00fa\u00f0ri og Gr\u00f3us\u00f6gum"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "394997066.1"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://visir.is/"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "V\u00edsir - Fors\u00ed\u00f0a"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "394997059.1"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "redirectURLs",
+        {
+         "array": [
+          {
+           "string": "http://visir.is/section/FRONTPAGE"
+          }
+         ]
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://www.apple.com/startpage/"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "Apple - Start"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "394997051.5"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "2"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "2"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "https://www.google.com/intl/en/chrome/browser/thankyou.html"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "Chrome Browser"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "394993460.6"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CEQQFjAA&url=http%3A%2F%2Fwww.google.com%2Fchrome%2F&ei=refaUdrFC-HniALbnIDoDg&usg=AFQjCNFw-0GuxyuZwraQHrJ5tqsxgerAFQ&bvm=bv.48705608,d.cGE"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "394993456.9"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "redirectURLs",
+        {
+         "array": [
+          {
+           "string": "http://www.google.com/chrome/"
+          }
+         ]
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "",
+        {
+         "string": "https://www.google.com/search?client=safari&rls=en&q=google+chrome&ie=UTF-8&oe=UTF-8"
+        }
+       ],
+       [
+        "title",
+        {
+         "string": "google chrome - Google Search"
+        }
+       ],
+       [
+        "lastVisitedDate",
+        {
+         "string": "394993453.2"
+        }
+       ],
+       [
+        "visitCount",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "D",
+        {
+         "array": [
+          {
+           "integer": "1"
+          }
+         ]
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ]
+ ]
+}

@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>booleans</key>
+	<array>
+		<true/>
+		<false/>
+	</array>
+	<key>integers</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>14</integer>
+		<integer>15</integer>
+		<integer>255</integer>
+		<integer>256</integer>
+		<integer>65535</integer>
+		<integer>65536</integer>
+		<integer>4294967295</integer>
+		<integer>4294967296</integer>
+		<integer>9223372036854775807</integer>
+		<integer>9223372036854775808</integer>
+		<integer>18446744073709551615</integer>
+		<integer>-1</integer>
+		<integer>-255</integer>
+		<integer>-2147483648</integer>
+		<integer>-9223372036854775808</integer>
+	</array>
+	<key>reals</key>
+	<array>
+		<real>0.0</real>
+		<real>-0.0</real>
+		<real>1.5</real>
+		<real>-2.25</real>
+		<real>3.141592653589793</real>
+		<real>1e+300</real>
+		<real>5e-324</real>
+		<real>inf</real>
+		<real>-inf</real>
+		<real>nan</real>
+	</array>
+	<key>dates</key>
+	<array>
+		<date>2001-01-01T00:00:00Z</date>
+		<date>1970-01-01T00:00:00Z</date>
+		<date>0001-01-01T00:00:00Z</date>
+		<date>1904-02-29T12:00:01Z</date>
+		<date>2026-10-04T18:30:15Z</date>
+		<date>9999-12-31T23:59:59Z</date>
+	</array>
+	<key>data</key>
+	<array>
+		<data>
+		</data>
+		<data>
+		AA==
+		</data>
+		<data>
+		AAECAwQFBgcICQoLDA0=
+		</data>
+		<data>
+		AAECAwQFBgcICQoLDA0O
+		</data>
+		<data>
+		AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJygpKiss
+		LS4vMDEyMzQ1Njc4OTo7PD0+P0BBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZ
+		WltcXV5fYGFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6e3x9fn+AgYKDhIWG
+		h4iJiouMjY6PkJGSk5SVlpeYmZqbnJ2en6ChoqOkpaanqKmqq6ytrq+wsbKz
+		tLW2t7i5uru8vb6/wMHCw8TFxsfIycrLzM3Oz9DR0tPU1dbX2Nna29zd3t/g
+		4eLj5OXm5+jp6uvs7e7v8PHy8/T19vf4+fr7/P3+/wABAgMEBQYHCAkKCwwN
+		Dg8QERITFBUWFxgZGhscHR4fICEiIyQlJicoKSorLC0uLzAxMjM0NTY3ODk6
+		Ozw9Pj9AQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVpbXF1eX2BhYmNkZWZn
+		aGlqa2xtbm9wcXJzdHV2d3h5ent8fX5/gIGCg4SFhoeIiYqLjI2Oj5CRkpOU
+		lZaXmJmam5ydnp+goaKjpKWmp6ipqqusra6vsLGys7S1tre4ubq7vL2+v8DB
+		wsPExcbHyMnKy8zNzs/Q0dLT1NXW19jZ2tvc3d7f4OHi4+Tl5ufo6err7O3u
+		7/Dx8vP09fb3+Pn6+/z9/v8AAQIDBAUGBwgJCgsMDQ4PEBESExQVFhcYGRob
+		HB0eHyAhIiMkJSYnKCkqKywtLi8wMTIzNDU2Nzg5Ojs8PT4/QEFCQ0RFRkdI
+		SUpLTE1OT1BRUlNUVVZXWFlaW1xdXl9gYWJjZGVmZ2hpamtsbW5vcHFyc3R1
+		dnd4eXp7fH1+f4CBgoOEhYaHiImKi4yNjo+QkZKTlJWWl5iZmpucnZ6foKGi
+		o6SlpqeoqaqrrK2ur7CxsrO0tba3uLm6u7y9vr/AwcLDxMXGx8jJysvMzc7P
+		0NHS09TV1tfY2drb3N3e3+Dh4uPk5ebn6Onq6+zt7u/w8fLz9PX29/j5+vv8
+		/f7/
+		</data>
+	</array>
+	<key>strings</key>
+	<array>
+		<string></string>
+		<string>plain ASCII</string>
+		<string>xxxxxxxxxxxxxx</string>
+		<string>yyyyyyyyyyyyyyy</string>
+		<string>zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</string>
+		<string>café</string>
+		<string>日本語のテキスト</string>
+		<string>emoji 😀 outside the BMP 🧪</string>
+		<string>markup &lt;tag&gt; &amp; "quotes" 'apostrophes' ]]&gt; end</string>
+		<string>  leading and trailing whitespace
+	tabs  </string>
+	</array>
+	<key>empty array</key>
+	<array/>
+	<key>empty dict</key>
+	<dict/>
+	<key>many</key>
+	<array>
+		<integer>1000</integer>
+		<integer>1001</integer>
+		<integer>1002</integer>
+		<integer>1003</integer>
+		<integer>1004</integer>
+		<integer>1005</integer>
+		<integer>1006</integer>
+		<integer>1007</integer>
+		<integer>1008</integer>
+		<integer>1009</integer>
+		<integer>1010</integer>
+		<integer>1011</integer>
+		<integer>1012</integer>
+		<integer>1013</integer>
+		<integer>1014</integer>
+		<integer>1015</integer>
+		<integer>1016</integer>
+		<integer>1017</integer>
+		<integer>1018</integer>
+		<integer>1019</integer>
+		<integer>1020</integer>
+		<integer>1021</integer>
+		<integer>1022</integer>
+		<integer>1023</integer>
+		<integer>1024</integer>
+		<integer>1025</integer>
+		<integer>1026</integer>
+		<integer>1027</integer>
+		<integer>1028</integer>
+		<integer>1029</integer>
+		<integer>1030</integer>
+		<integer>1031</integer>
+		<integer>1032</integer>
+		<integer>1033</integer>
+		<integer>1034</integer>
+		<integer>1035</integer>
+		<integer>1036</integer>
+		<integer>1037</integer>
+		<integer>1038</integer>
+		<integer>1039</integer>
+	</array>
+	<key>wide</key>
+	<dict>
+		<key>key 000</key>
+		<integer>0</integer>
+		<key>key 001</key>
+		<integer>1</integer>
+		<key>key 002</key>
+		<integer>2</integer>
+		<key>key 003</key>
+		<integer>3</integer>
+		<key>key 004</key>
+		<integer>4</integer>
+		<key>key 005</key>
+		<integer>5</integer>
+		<key>key 006</key>
+		<integer>6</integer>
+		<key>key 007</key>
+		<integer>7</integer>
+		<key>key 008</key>
+		<integer>8</integer>
+		<key>key 009</key>
+		<integer>9</integer>
+		<key>key 010</key>
+		<integer>10</integer>
+		<key>key 011</key>
+		<integer>11</integer>
+		<key>key 012</key>
+		<integer>12</integer>
+		<key>key 013</key>
+		<integer>13</integer>
+		<key>key 014</key>
+		<integer>14</integer>
+		<key>key 015</key>
+		<integer>15</integer>
+		<key>key 016</key>
+		<integer>16</integer>
+		<key>key 017</key>
+		<integer>17</integer>
+		<key>key 018</key>
+		<integer>18</integer>
+		<key>key 019</key>
+		<integer>19</integer>
+		<key>key 020</key>
+		<integer>20</integer>
+		<key>key 021</key>
+		<integer>21</integer>
+		<key>key 022</key>
+		<integer>22</integer>
+		<key>key 023</key>
+		<integer>23</integer>
+		<key>key 024</key>
+		<integer>24</integer>
+		<key>key 025</key>
+		<integer>25</integer>
+		<key>key 026</key>
+		<integer>26</integer>
+		<key>key 027</key>
+		<integer>27</integer>
+		<key>key 028</key>
+		<integer>28</integer>
+		<key>key 029</key>
+		<integer>29</integer>
+		<key>key 030</key>
+		<integer>30</integer>
+		<key>key 031</key>
+		<integer>31</integer>
+		<key>key 032</key>
+		<integer>32</integer>
+		<key>key 033</key>
+		<integer>33</integer>
+		<key>key 034</key>
+		<integer>34</integer>
+		<key>key 035</key>
+		<integer>35</integer>
+		<key>key 036</key>
+		<integer>36</integer>
+		<key>key 037</key>
+		<integer>37</integer>
+		<key>key 038</key>
+		<integer>38</integer>
+		<key>key 039</key>
+		<integer>39</integer>
+		<key>key 040</key>
+		<integer>40</integer>
+		<key>key 041</key>
+		<integer>41</integer>
+		<key>key 042</key>
+		<integer>42</integer>
+		<key>key 043</key>
+		<integer>43</integer>
+		<key>key 044</key>
+		<integer>44</integer>
+		<key>key 045</key>
+		<integer>45</integer>
+		<key>key 046</key>
+		<integer>46</integer>
+		<key>key 047</key>
+		<integer>47</integer>
+		<key>key 048</key>
+		<integer>48</integer>
+		<key>key 049</key>
+		<integer>49</integer>
+		<key>key 050</key>
+		<integer>50</integer>
+		<key>key 051</key>
+		<integer>51</integer>
+		<key>key 052</key>
+		<integer>52</integer>
+		<key>key 053</key>
+		<integer>53</integer>
+		<key>key 054</key>
+		<integer>54</integer>
+		<key>key 055</key>
+		<integer>55</integer>
+		<key>key 056</key>
+		<integer>56</integer>
+		<key>key 057</key>
+		<integer>57</integer>
+		<key>key 058</key>
+		<integer>58</integer>
+		<key>key 059</key>
+		<integer>59</integer>
+		<key>key 060</key>
+		<integer>60</integer>
+		<key>key 061</key>
+		<integer>61</integer>
+		<key>key 062</key>
+		<integer>62</integer>
+		<key>key 063</key>
+		<integer>63</integer>
+		<key>key 064</key>
+		<integer>64</integer>
+		<key>key 065</key>
+		<integer>65</integer>
+		<key>key 066</key>
+		<integer>66</integer>
+		<key>key 067</key>
+		<integer>67</integer>
+		<key>key 068</key>
+		<integer>68</integer>
+		<key>key 069</key>
+		<integer>69</integer>
+		<key>key 070</key>
+		<integer>70</integer>
+		<key>key 071</key>
+		<integer>71</integer>
+		<key>key 072</key>
+		<integer>72</integer>
+		<key>key 073</key>
+		<integer>73</integer>
+		<key>key 074</key>
+		<integer>74</integer>
+		<key>key 075</key>
+		<integer>75</integer>
+		<key>key 076</key>
+		<integer>76</integer>
+		<key>key 077</key>
+		<integer>77</integer>
+		<key>key 078</key>
+		<integer>78</integer>
+		<key>key 079</key>
+		<integer>79</integer>
+		<key>key 080</key>
+		<integer>80</integer>
+		<key>key 081</key>
+		<integer>81</integer>
+		<key>key 082</key>
+		<integer>82</integer>
+		<key>key 083</key>
+		<integer>83</integer>
+		<key>key 084</key>
+		<integer>84</integer>
+		<key>key 085</key>
+		<integer>85</integer>
+		<key>key 086</key>
+		<integer>86</integer>
+		<key>key 087</key>
+		<integer>87</integer>
+		<key>key 088</key>
+		<integer>88</integer>
+		<key>key 089</key>
+		<integer>89</integer>
+		<key>key 090</key>
+		<integer>90</integer>
+		<key>key 091</key>
+		<integer>91</integer>
+		<key>key 092</key>
+		<integer>92</integer>
+		<key>key 093</key>
+		<integer>93</integer>
+		<key>key 094</key>
+		<integer>94</integer>
+		<key>key 095</key>
+		<integer>95</integer>
+		<key>key 096</key>
+		<integer>96</integer>
+		<key>key 097</key>
+		<integer>97</integer>
+		<key>key 098</key>
+		<integer>98</integer>
+		<key>key 099</key>
+		<integer>99</integer>
+		<key>key 100</key>
+		<integer>100</integer>
+		<key>key 101</key>
+		<integer>101</integer>
+		<key>key 102</key>
+		<integer>102</integer>
+		<key>key 103</key>
+		<integer>103</integer>
+		<key>key 104</key>
+		<integer>104</integer>
+		<key>key 105</key>
+		<integer>105</integer>
+		<key>key 106</key>
+		<integer>106</integer>
+		<key>key 107</key>
+		<integer>107</integer>
+		<key>key 108</key>
+		<integer>108</integer>
+		<key>key 109</key>
+		<integer>109</integer>
+		<key>key 110</key>
+		<integer>110</integer>
+		<key>key 111</key>
+		<integer>111</integer>
+		<key>key 112</key>
+		<integer>112</integer>
+		<key>key 113</key>
+		<integer>113</integer>
+		<key>key 114</key>
+		<integer>114</integer>
+		<key>key 115</key>
+		<integer>115</integer>
+		<key>key 116</key>
+		<integer>116</integer>
+		<key>key 117</key>
+		<integer>117</integer>
+		<key>key 118</key>
+		<integer>118</integer>
+		<key>key 119</key>
+		<integer>119</integer>
+		<key>key 120</key>
+		<integer>120</integer>
+		<key>key 121</key>
+		<integer>121</integer>
+		<key>key 122</key>
+		<integer>122</integer>
+		<key>key 123</key>
+		<integer>123</integer>
+		<key>key 124</key>
+		<integer>124</integer>
+		<key>key 125</key>
+		<integer>125</integer>
+		<key>key 126</key>
+		<integer>126</integer>
+		<key>key 127</key>
+		<integer>127</integer>
+		<key>key 128</key>
+		<integer>128</integer>
+		<key>key 129</key>
+		<integer>129</integer>
+		<key>key 130</key>
+		<integer>130</integer>
+		<key>key 131</key>
+		<integer>131</integer>
+		<key>key 132</key>
+		<integer>132</integer>
+		<key>key 133</key>
+		<integer>133</integer>
+		<key>key 134</key>
+		<integer>134</integer>
+		<key>key 135</key>
+		<integer>135</integer>
+		<key>key 136</key>
+		<integer>136</integer>
+		<key>key 137</key>
+		<integer>137</integer>
+		<key>key 138</key>
+		<integer>138</integer>
+		<key>key 139</key>
+		<integer>139</integer>
+		<key>key 140</key>
+		<integer>140</integer>
+		<key>key 141</key>
+		<integer>141</integer>
+		<key>key 142</key>
+		<integer>142</integer>
+		<key>key 143</key>
+		<integer>143</integer>
+		<key>key 144</key>
+		<integer>144</integer>
+		<key>key 145</key>
+		<integer>145</integer>
+		<key>key 146</key>
+		<integer>146</integer>
+		<key>key 147</key>
+		<integer>147</integer>
+		<key>key 148</key>
+		<integer>148</integer>
+		<key>key 149</key>
+		<integer>149</integer>
+		<key>key 150</key>
+		<integer>150</integer>
+		<key>key 151</key>
+		<integer>151</integer>
+		<key>key 152</key>
+		<integer>152</integer>
+		<key>key 153</key>
+		<integer>153</integer>
+		<key>key 154</key>
+		<integer>154</integer>
+		<key>key 155</key>
+		<integer>155</integer>
+		<key>key 156</key>
+		<integer>156</integer>
+		<key>key 157</key>
+		<integer>157</integer>
+		<key>key 158</key>
+		<integer>158</integer>
+		<key>key 159</key>
+		<integer>159</integer>
+		<key>key 160</key>
+		<integer>160</integer>
+		<key>key 161</key>
+		<integer>161</integer>
+		<key>key 162</key>
+		<integer>162</integer>
+		<key>key 163</key>
+		<integer>163</integer>
+		<key>key 164</key>
+		<integer>164</integer>
+		<key>key 165</key>
+		<integer>165</integer>
+		<key>key 166</key>
+		<integer>166</integer>
+		<key>key 167</key>
+		<integer>167</integer>
+		<key>key 168</key>
+		<integer>168</integer>
+		<key>key 169</key>
+		<integer>169</integer>
+		<key>key 170</key>
+		<integer>170</integer>
+		<key>key 171</key>
+		<integer>171</integer>
+		<key>key 172</key>
+		<integer>172</integer>
+		<key>key 173</key>
+		<integer>173</integer>
+		<key>key 174</key>
+		<integer>174</integer>
+		<key>key 175</key>
+		<integer>175</integer>
+		<key>key 176</key>
+		<integer>176</integer>
+		<key>key 177</key>
+		<integer>177</integer>
+		<key>key 178</key>
+		<integer>178</integer>
+		<key>key 179</key>
+		<integer>179</integer>
+		<key>key 180</key>
+		<integer>180</integer>
+		<key>key 181</key>
+		<integer>181</integer>
+		<key>key 182</key>
+		<integer>182</integer>
+		<key>key 183</key>
+		<integer>183</integer>
+		<key>key 184</key>
+		<integer>184</integer>
+		<key>key 185</key>
+		<integer>185</integer>
+		<key>key 186</key>
+		<integer>186</integer>
+		<key>key 187</key>
+		<integer>187</integer>
+		<key>key 188</key>
+		<integer>188</integer>
+		<key>key 189</key>
+		<integer>189</integer>
+		<key>key 190</key>
+		<integer>190</integer>
+		<key>key 191</key>
+		<integer>191</integer>
+		<key>key 192</key>
+		<integer>192</integer>
+		<key>key 193</key>
+		<integer>193</integer>
+		<key>key 194</key>
+		<integer>194</integer>
+		<key>key 195</key>
+		<integer>195</integer>
+		<key>key 196</key>
+		<integer>196</integer>
+		<key>key 197</key>
+		<integer>197</integer>
+		<key>key 198</key>
+		<integer>198</integer>
+		<key>key 199</key>
+		<integer>199</integer>
+		<key>key 200</key>
+		<integer>200</integer>
+		<key>key 201</key>
+		<integer>201</integer>
+		<key>key 202</key>
+		<integer>202</integer>
+		<key>key 203</key>
+		<integer>203</integer>
+		<key>key 204</key>
+		<integer>204</integer>
+		<key>key 205</key>
+		<integer>205</integer>
+		<key>key 206</key>
+		<integer>206</integer>
+		<key>key 207</key>
+		<integer>207</integer>
+		<key>key 208</key>
+		<integer>208</integer>
+		<key>key 209</key>
+		<integer>209</integer>
+		<key>key 210</key>
+		<integer>210</integer>
+		<key>key 211</key>
+		<integer>211</integer>
+		<key>key 212</key>
+		<integer>212</integer>
+		<key>key 213</key>
+		<integer>213</integer>
+		<key>key 214</key>
+		<integer>214</integer>
+		<key>key 215</key>
+		<integer>215</integer>
+		<key>key 216</key>
+		<integer>216</integer>
+		<key>key 217</key>
+		<integer>217</integer>
+		<key>key 218</key>
+		<integer>218</integer>
+		<key>key 219</key>
+		<integer>219</integer>
+		<key>key 220</key>
+		<integer>220</integer>
+		<key>key 221</key>
+		<integer>221</integer>
+		<key>key 222</key>
+		<integer>222</integer>
+		<key>key 223</key>
+		<integer>223</integer>
+		<key>key 224</key>
+		<integer>224</integer>
+		<key>key 225</key>
+		<integer>225</integer>
+		<key>key 226</key>
+		<integer>226</integer>
+		<key>key 227</key>
+		<integer>227</integer>
+		<key>key 228</key>
+		<integer>228</integer>
+		<key>key 229</key>
+		<integer>229</integer>
+		<key>key 230</key>
+		<integer>230</integer>
+		<key>key 231</key>
+		<integer>231</integer>
+		<key>key 232</key>
+		<integer>232</integer>
+		<key>key 233</key>
+		<integer>233</integer>
+		<key>key 234</key>
+		<integer>234</integer>
+		<key>key 235</key>
+		<integer>235</integer>
+		<key>key 236</key>
+		<integer>236</integer>
+		<key>key 237</key>
+		<integer>237</integer>
+		<key>key 238</key>
+		<integer>238</integer>
+		<key>key 239</key>
+		<integer>239</integer>
+		<key>key 240</key>
+		<integer>240</integer>
+		<key>key 241</key>
+		<integer>241</integer>
+		<key>key 242</key>
+		<integer>242</integer>
+		<key>key 243</key>
+		<integer>243</integer>
+		<key>key 244</key>
+		<integer>244</integer>
+		<key>key 245</key>
+		<integer>245</integer>
+		<key>key 246</key>
+		<integer>246</integer>
+		<key>key 247</key>
+		<integer>247</integer>
+		<key>key 248</key>
+		<integer>248</integer>
+		<key>key 249</key>
+		<integer>249</integer>
+		<key>key 250</key>
+		<integer>250</integer>
+		<key>key 251</key>
+		<integer>251</integer>
+		<key>key 252</key>
+		<integer>252</integer>
+		<key>key 253</key>
+		<integer>253</integer>
+		<key>key 254</key>
+		<integer>254</integer>
+		<key>key 255</key>
+		<integer>255</integer>
+		<key>key 256</key>
+		<integer>256</integer>
+		<key>key 257</key>
+		<integer>257</integer>
+		<key>key 258</key>
+		<integer>258</integer>
+		<key>key 259</key>
+		<integer>259</integer>
+		<key>key 260</key>
+		<integer>260</integer>
+		<key>key 261</key>
+		<integer>261</integer>
+		<key>key 262</key>
+		<integer>262</integer>
+		<key>key 263</key>
+		<integer>263</integer>
+		<key>key 264</key>
+		<integer>264</integer>
+		<key>key 265</key>
+		<integer>265</integer>
+		<key>key 266</key>
+		<integer>266</integer>
+		<key>key 267</key>
+		<integer>267</integer>
+		<key>key 268</key>
+		<integer>268</integer>
+		<key>key 269</key>
+		<integer>269</integer>
+		<key>key 270</key>
+		<integer>270</integer>
+		<key>key 271</key>
+		<integer>271</integer>
+		<key>key 272</key>
+		<integer>272</integer>
+		<key>key 273</key>
+		<integer>273</integer>
+		<key>key 274</key>
+		<integer>274</integer>
+		<key>key 275</key>
+		<integer>275</integer>
+		<key>key 276</key>
+		<integer>276</integer>
+		<key>key 277</key>
+		<integer>277</integer>
+		<key>key 278</key>
+		<integer>278</integer>
+		<key>key 279</key>
+		<integer>279</integer>
+		<key>key 280</key>
+		<integer>280</integer>
+		<key>key 281</key>
+		<integer>281</integer>
+		<key>key 282</key>
+		<integer>282</integer>
+		<key>key 283</key>
+		<integer>283</integer>
+		<key>key 284</key>
+		<integer>284</integer>
+		<key>key 285</key>
+		<integer>285</integer>
+		<key>key 286</key>
+		<integer>286</integer>
+		<key>key 287</key>
+		<integer>287</integer>
+		<key>key 288</key>
+		<integer>288</integer>
+		<key>key 289</key>
+		<integer>289</integer>
+		<key>key 290</key>
+		<integer>290</integer>
+		<key>key 291</key>
+		<integer>291</integer>
+		<key>key 292</key>
+		<integer>292</integer>
+		<key>key 293</key>
+		<integer>293</integer>
+		<key>key 294</key>
+		<integer>294</integer>
+		<key>key 295</key>
+		<integer>295</integer>
+		<key>key 296</key>
+		<integer>296</integer>
+		<key>key 297</key>
+		<integer>297</integer>
+		<key>key 298</key>
+		<integer>298</integer>
+		<key>key 299</key>
+		<integer>299</integer>
+	</dict>
+	<key>deep</key>
+	<array>
+		<dict>
+			<key>level</key>
+			<array>
+				<dict>
+					<key>level</key>
+					<array>
+						<dict>
+							<key>level</key>
+							<array>
+								<dict>
+									<key>level</key>
+									<array>
+										<dict>
+											<key>level</key>
+											<array>
+												<dict>
+													<key>level</key>
+													<array>
+														<dict>
+															<key>level</key>
+															<array>
+																<dict>
+																	<key>level</key>
+																	<array>
+																		<dict>
+																			<key>level</key>
+																			<array>
+																				<dict>
+																					<key>level</key>
+																					<array>
+																						<dict>
+																							<key>level</key>
+																							<array>
+																								<dict>
+																									<key>level</key>
+																									<array>
+																										<dict>
+																											<key>level</key>
+																											<array>
+																												<dict>
+																													<key>level</key>
+																													<array>
+																														<dict>
+																															<key>level</key>
+																															<array>
+																																<dict>
+																																	<key>level</key>
+																																	<array>
+																																		<dict>
+																																			<key>level</key>
+																																			<array>
+																																				<dict>
+																																					<key>level</key>
+																																					<array>
+																																						<dict>
+																																							<key>level</key>
+																																							<array>
+																																								<dict>
+																																									<key>level</key>
+																																									<string>bottom</string>
+																																								</dict>
+																																							</array>
+																																						</dict>
+																																					</array>
+																																				</dict>
+																																			</array>
+																																		</dict>
+																																	</array>
+																																</dict>
+																															</array>
+																														</dict>
+																													</array>
+																												</dict>
+																											</array>
+																										</dict>
+																									</array>
+																								</dict>
+																							</array>
+																						</dict>
+																					</array>
+																				</dict>
+																			</array>
+																		</dict>
+																	</array>
+																</dict>
+															</array>
+														</dict>
+													</array>
+												</dict>
+											</array>
+										</dict>
+									</array>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>unicode keys</key>
+	<dict>
+		<key>clé</key>
+		<integer>1</integer>
+		<key>键</key>
+		<integer>2</integer>
+		<key>🔑</key>
+		<integer>3</integer>
+	</dict>
+	<key>order</key>
+	<dict>
+		<key>zebra</key>
+		<integer>1</integer>
+		<key>apple</key>
+		<integer>2</integer>
+		<key>mango</key>
+		<integer>3</integer>
+	</dict>
+</dict>
+</plist>

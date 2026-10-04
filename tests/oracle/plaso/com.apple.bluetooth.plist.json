@@ -1,0 +1,1090 @@
+{
+ "dict": [
+  [
+   "BluetoothVersionNumber",
+   {
+    "integer": "3"
+   }
+  ],
+  [
+   "PersistentServices",
+   {
+    "data": "00000000"
+   }
+  ],
+  [
+   "PANInterfaces",
+   {
+    "array": [
+     {
+      "string": "00-23-6c-00-00-00"
+     }
+    ]
+   }
+  ],
+  [
+   "HIDDevices",
+   {
+    "array": [
+     {
+      "string": "44-00-00-00-00-04"
+     }
+    ]
+   }
+  ],
+  [
+   "SCOAudioDevices",
+   {
+    "dict": [
+     [
+      "00-0d-fd-00-00-00",
+      {
+       "dict": [
+        [
+         "AgentPath",
+         {
+          "string": "/System/Library/CoreServices/BluetoothAudioAgent.app/Contents/MacOS/BluetoothAudioAgent"
+         }
+        ],
+        [
+         "DriverID",
+         {
+          "string": "00-0d-fd-00-00-00"
+         }
+        ],
+        [
+         "IOAudioControls",
+         {
+          "array": [
+           {
+            "dict": [
+             [
+              "IOAudioControlType",
+              {
+               "real": "3ff0000000000000"
+              }
+             ],
+             [
+              "IOAudioLevelControlMinValue",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "IOAudioControlChannelID",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "IOAudioControlUsage",
+              {
+               "integer": "1869968496"
+              }
+             ],
+             [
+              "IOAudioLevelControlMinDB",
+              {
+               "integer": "4293558272"
+              }
+             ],
+             [
+              "IOAudioControlValue",
+              {
+               "integer": "65535"
+              }
+             ],
+             [
+              "IOAudioLevelControlMaxValue",
+              {
+               "integer": "65535"
+              }
+             ],
+             [
+              "IOAudioControlChannelName",
+              {
+               "string": "All Channels"
+              }
+             ],
+             [
+              "IOAudioLevelControlMaxDB",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "IOAudioControlSubType",
+              {
+               "integer": "1986817381"
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "IOAudioControlChannelName",
+              {
+               "string": "All Channels"
+              }
+             ],
+             [
+              "IOAudioControlType",
+              {
+               "integer": "1953458028"
+              }
+             ],
+             [
+              "IOAudioControlValue",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "IOAudioControlChannelID",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "IOAudioControlSubType",
+              {
+               "integer": "1836414053"
+              }
+             ],
+             [
+              "IOAudioControlUsage",
+              {
+               "integer": "1869968496"
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "IOAudioControlType",
+              {
+               "integer": "1818588780"
+              }
+             ],
+             [
+              "IOAudioLevelControlMinValue",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "IOAudioControlChannelID",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "IOAudioControlUsage",
+              {
+               "integer": "1768845428"
+              }
+             ],
+             [
+              "IOAudioLevelControlMinDB",
+              {
+               "integer": "4293558272"
+              }
+             ],
+             [
+              "IOAudioControlValue",
+              {
+               "integer": "65535"
+              }
+             ],
+             [
+              "IOAudioLevelControlMaxValue",
+              {
+               "integer": "65535"
+              }
+             ],
+             [
+              "IOAudioControlChannelName",
+              {
+               "string": "All Channels"
+              }
+             ],
+             [
+              "IOAudioLevelControlMaxDB",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "IOAudioControlSubType",
+              {
+               "integer": "1986817381"
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "IOAudioControlChannelName",
+              {
+               "string": "All Channels"
+              }
+             ],
+             [
+              "IOAudioControlType",
+              {
+               "integer": "1953458028"
+              }
+             ],
+             [
+              "IOAudioControlValue",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "IOAudioControlChannelID",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "IOAudioControlSubType",
+              {
+               "integer": "1836414053"
+              }
+             ],
+             [
+              "IOAudioControlUsage",
+              {
+               "integer": "1768845428"
+              }
+             ]
+            ]
+           }
+          ]
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "DaemonNoRoleSwitchDeviceList",
+   {
+    "array": [
+     {
+      "string": "00-0d-fd-00-00-00"
+     }
+    ]
+   }
+  ],
+  [
+   "DaemonControllersConfigurationKey",
+   {
+    "dict": [
+     [
+      "00-23-6c-00-00-00",
+      {
+       "dict": [
+        [
+         "HIDEmulationTrackpad",
+         {
+          "string": "b8-f6-b1-00-00-00"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "ControllerPowerState",
+   {
+    "integer": "1"
+   }
+  ],
+  [
+   "BluetoothAutoSeekHIDDevices",
+   {
+    "bool": true
+   }
+  ],
+  [
+   "PersistentPorts",
+   {
+    "dict": [
+     [
+      "incoming port - Bluetooth-PDA-Sync",
+      {
+       "dict": [
+        [
+         "BTName",
+         {
+          "string": "incoming port - Bluetooth-PDA-Sync"
+         }
+        ],
+        [
+         "P49SerialPort",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "HiddenPort",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "BTRFCOMMChannel",
+         {
+          "integer": "3"
+         }
+        ],
+        [
+         "BTAuthenticationRequired",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "IOTTYBaseName",
+         {
+          "string": "Bluetooth-PDA-Sync"
+         }
+        ],
+        [
+         "BTSerialConnectionType",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "BTPSM",
+         {
+          "integer": "3"
+         }
+        ],
+        [
+         "BTEncryptionType",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "BTTTYName",
+         {
+          "string": "Bluetooth-PDA-Sync"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "Bluetooth-Modem",
+      {
+       "dict": [
+        [
+         "BTName",
+         {
+          "string": "Bluetooth-Modem"
+         }
+        ],
+        [
+         "P49SerialPort",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "BTPSM",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "BTRFCOMMChannel",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "BTAuthenticationRequired",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "BTAddress",
+         {
+          "data": ""
+         }
+        ],
+        [
+         "BTTTYName",
+         {
+          "string": "Bluetooth-Modem"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "AudioHeadphones",
+   {
+    "array": [
+     {
+      "string": "00-0d-fd-00-00-00"
+     }
+    ]
+   }
+  ],
+  [
+   "AudioA2DPSourceServiceRecordHandle",
+   {
+    "integer": "65541"
+   }
+  ],
+  [
+   "D2D MAC Address",
+   {
+    "data": "00000000"
+   }
+  ],
+  [
+   "DeviceCache",
+   {
+    "dict": [
+     [
+      "44-00-00-00-00-01",
+      {
+       "dict": [
+        [
+         "PageScanRepetitionMode",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "ClockOffset",
+         {
+          "integer": "14327"
+         }
+        ],
+        [
+         "PageScanMode",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "LastNameUpdate",
+         {
+          "date": "2012-10-19T17:06:31.557044Z"
+         }
+        ],
+        [
+         "InquiryRSSI",
+         {
+          "integer": "186"
+         }
+        ],
+        [
+         "Name",
+         {
+          "string": "test-mac"
+         }
+        ],
+        [
+         "PageScanPeriod",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "ClassOfDevice",
+         {
+          "integer": "3670276"
+         }
+        ],
+        [
+         "LastInquiryUpdate",
+         {
+          "date": "2012-10-19T17:06:25.239662Z"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "44-00-00-00-00-04",
+      {
+       "dict": [
+        [
+         "displayName",
+         {
+          "string": "Apple Magic Trackpad 2"
+         }
+        ],
+        [
+         "LastServicesUpdate",
+         {
+          "date": "2012-11-02T01:13:23.000000Z"
+         }
+        ],
+        [
+         "Name",
+         {
+          "string": "Apple Magic Trackpad 2"
+         }
+        ],
+        [
+         "LMPSubversion",
+         {
+          "integer": "796"
+         }
+        ],
+        [
+         "InquiryRSSI",
+         {
+          "integer": "198"
+         }
+        ],
+        [
+         "LastNameUpdate",
+         {
+          "date": "2012-11-02T01:21:38.997673Z"
+         }
+        ],
+        [
+         "PageScanPeriod",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "SupportedFeatures",
+         {
+          "data": "00000000"
+         }
+        ],
+        [
+         "LMPVersion",
+         {
+          "integer": "3"
+         }
+        ],
+        [
+         "PageScanRepetitionMode",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "LastInquiryUpdate",
+         {
+          "date": "2012-11-02T01:13:17.324095Z"
+         }
+        ],
+        [
+         "Services",
+         {
+          "data": ""
+         }
+        ],
+        [
+         "BatteryPercent",
+         {
+          "real": "3fe3851eb851eb85"
+         }
+        ],
+        [
+         "Manufacturer",
+         {
+          "integer": "76"
+         }
+        ],
+        [
+         "ClockOffset",
+         {
+          "integer": "17981"
+         }
+        ],
+        [
+         "PageScanMode",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "ClassOfDevice",
+         {
+          "integer": "9620"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "44-00-00-00-00-00",
+      {
+       "dict": [
+        [
+         "ClockOffset",
+         {
+          "integer": "27790"
+         }
+        ],
+        [
+         "LastInquiryUpdate",
+         {
+          "date": "2012-07-10T22:04:56.010535Z"
+         }
+        ],
+        [
+         "ClassOfDevice",
+         {
+          "integer": "3670276"
+         }
+        ],
+        [
+         "PageScanRepetitionMode",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "PageScanMode",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "PageScanPeriod",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "44-00-00-00-00-03",
+      {
+       "dict": [
+        [
+         "PageScanMode",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "PageScanPeriod",
+         {
+          "integer": "2"
+         }
+        ],
+        [
+         "ClassOfDevice",
+         {
+          "integer": "3670284"
+         }
+        ],
+        [
+         "PageScanRepetitionMode",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "ClockOffset",
+         {
+          "integer": "11449"
+         }
+        ],
+        [
+         "LastInquiryUpdate",
+         {
+          "date": "2011-03-25T00:16:41.414766Z"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "00-0d-fd-00-00-00",
+      {
+       "dict": [
+        [
+         "ClassOfDevice",
+         {
+          "integer": "2360324"
+         }
+        ],
+        [
+         "Name",
+         {
+          "string": "BT Headphone"
+         }
+        ],
+        [
+         "LMPSubversion",
+         {
+          "real": "4008000000000000"
+         }
+        ],
+        [
+         "InquiryRSSI",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "SupportedFeatures",
+         {
+          "data": "8000181bf88bffff"
+         }
+        ],
+        [
+         "LastNameUpdate",
+         {
+          "date": "2012-08-18T00:54:28.370453Z"
+         }
+        ],
+        [
+         "PageScanPeriod",
+         {
+          "integer": "2"
+         }
+        ],
+        [
+         "Services",
+         {
+          "data": "00000000"
+         }
+        ],
+        [
+         "PageScanRepetitionMode",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "LastInquiryUpdate",
+         {
+          "date": "2012-11-02T03:43:28.261762Z"
+         }
+        ],
+        [
+         "LMPVersion",
+         {
+          "integer": "3"
+         }
+        ],
+        [
+         "Manufacturer",
+         {
+          "integer": "10"
+         }
+        ],
+        [
+         "ClockOffset",
+         {
+          "integer": "17461"
+         }
+        ],
+        [
+         "PageScanMode",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "LastServicesUpdate",
+         {
+          "date": "2012-08-18T00:53:12.528750Z"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "44-00-00-00-00-02",
+      {
+       "dict": [
+        [
+         "PageScanRepetitionMode",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "ClockOffset",
+         {
+          "integer": "28180"
+         }
+        ],
+        [
+         "PageScanMode",
+         {
+          "integer": "0"
+         }
+        ],
+        [
+         "LastNameUpdate",
+         {
+          "date": "2011-04-07T17:56:53.524275Z"
+         }
+        ],
+        [
+         "Name",
+         {
+          "string": "test-macpro"
+         }
+        ],
+        [
+         "PageScanPeriod",
+         {
+          "integer": "2"
+         }
+        ],
+        [
+         "ClassOfDevice",
+         {
+          "integer": "3670276"
+         }
+        ],
+        [
+         "LastInquiryUpdate",
+         {
+          "date": "2012-07-10T22:05:00.020117Z"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "PairedDevices",
+   {
+    "array": [
+     {
+      "string": "44-00-00-00-00-00"
+     },
+     {
+      "string": "44-00-00-00-00-04"
+     }
+    ]
+   }
+  ],
+  [
+   "PersistentPortsServices",
+   {
+    "dict": [
+     [
+      "incoming port - Bluetooth-PDA-Sync",
+      {
+       "dict": [
+        [
+         "0005 - BrowseGroupList*",
+         {
+          "array": [
+           {
+            "data": "1002"
+           }
+          ]
+         }
+        ],
+        [
+         "0004 - ProtocolDescriptorList",
+         {
+          "array": [
+           {
+            "array": [
+             {
+              "data": "0100"
+             }
+            ]
+           },
+           {
+            "array": [
+             {
+              "data": "0003"
+             },
+             {
+              "dict": [
+               [
+                "DataElementType",
+                {
+                 "integer": "1"
+                }
+               ],
+               [
+                "DataElementValue",
+                {
+                 "integer": "3"
+                }
+               ],
+               [
+                "DataElementSize",
+                {
+                 "integer": "1"
+                }
+               ]
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ],
+        [
+         "0100 - ServiceName*",
+         {
+          "string": "Bluetooth-PDA-Sync"
+         }
+        ],
+        [
+         "0006 - LanguageBaseAttributeIDList*",
+         {
+          "array": [
+           {
+            "dict": [
+             [
+              "DataElementType",
+              {
+               "integer": "1"
+              }
+             ],
+             [
+              "DataElementValue",
+              {
+               "integer": "25966"
+              }
+             ],
+             [
+              "DataElementSize",
+              {
+               "integer": "2"
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "DataElementType",
+              {
+               "integer": "1"
+              }
+             ],
+             [
+              "DataElementValue",
+              {
+               "integer": "106"
+              }
+             ],
+             [
+              "DataElementSize",
+              {
+               "integer": "2"
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "DataElementType",
+              {
+               "integer": "1"
+              }
+             ],
+             [
+              "DataElementValue",
+              {
+               "integer": "256"
+              }
+             ],
+             [
+              "DataElementSize",
+              {
+               "integer": "2"
+              }
+             ]
+            ]
+           }
+          ]
+         }
+        ],
+        [
+         "0000 - ServiceRecordHandle*",
+         {
+          "integer": "65540"
+         }
+        ],
+        [
+         "0001 - ServiceClassIDList",
+         {
+          "array": [
+           {
+            "data": "1101"
+           }
+          ]
+         }
+        ],
+        [
+         "0009 - BluetoothProfileDescriptorList",
+         {
+          "array": [
+           {
+            "array": [
+             {
+              "data": "1101"
+             },
+             {
+              "dict": [
+               [
+                "DataElementType",
+                {
+                 "integer": "1"
+                }
+               ],
+               [
+                "DataElementValue",
+                {
+                 "integer": "256"
+                }
+               ],
+               [
+                "DataElementSize",
+                {
+                 "integer": "2"
+                }
+               ]
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ ]
+}

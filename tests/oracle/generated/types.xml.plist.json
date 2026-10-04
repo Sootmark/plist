@@ -1,0 +1,2418 @@
+{
+ "dict": [
+  [
+   "booleans",
+   {
+    "array": [
+     {
+      "bool": true
+     },
+     {
+      "bool": false
+     }
+    ]
+   }
+  ],
+  [
+   "integers",
+   {
+    "array": [
+     {
+      "integer": "0"
+     },
+     {
+      "integer": "1"
+     },
+     {
+      "integer": "14"
+     },
+     {
+      "integer": "15"
+     },
+     {
+      "integer": "255"
+     },
+     {
+      "integer": "256"
+     },
+     {
+      "integer": "65535"
+     },
+     {
+      "integer": "65536"
+     },
+     {
+      "integer": "4294967295"
+     },
+     {
+      "integer": "4294967296"
+     },
+     {
+      "integer": "9223372036854775807"
+     },
+     {
+      "integer": "9223372036854775808"
+     },
+     {
+      "integer": "18446744073709551615"
+     },
+     {
+      "integer": "-1"
+     },
+     {
+      "integer": "-255"
+     },
+     {
+      "integer": "-2147483648"
+     },
+     {
+      "integer": "-9223372036854775808"
+     }
+    ]
+   }
+  ],
+  [
+   "reals",
+   {
+    "array": [
+     {
+      "real": "0000000000000000"
+     },
+     {
+      "real": "8000000000000000"
+     },
+     {
+      "real": "3ff8000000000000"
+     },
+     {
+      "real": "c002000000000000"
+     },
+     {
+      "real": "400921fb54442d18"
+     },
+     {
+      "real": "7e37e43c8800759c"
+     },
+     {
+      "real": "0000000000000001"
+     },
+     {
+      "real": "7ff0000000000000"
+     },
+     {
+      "real": "fff0000000000000"
+     },
+     {
+      "real": "7ff8000000000000"
+     }
+    ]
+   }
+  ],
+  [
+   "dates",
+   {
+    "array": [
+     {
+      "date": "2001-01-01T00:00:00.000000Z"
+     },
+     {
+      "date": "1970-01-01T00:00:00.000000Z"
+     },
+     {
+      "date": "0001-01-01T00:00:00.000000Z"
+     },
+     {
+      "date": "1904-02-29T12:00:01.000000Z"
+     },
+     {
+      "date": "2026-10-04T18:30:15.000000Z"
+     },
+     {
+      "date": "9999-12-31T23:59:59.000000Z"
+     }
+    ]
+   }
+  ],
+  [
+   "data",
+   {
+    "array": [
+     {
+      "data": ""
+     },
+     {
+      "data": "00"
+     },
+     {
+      "data": "000102030405060708090a0b0c0d"
+     },
+     {
+      "data": "000102030405060708090a0b0c0d0e"
+     },
+     {
+      "data": "000102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f202122232425262728292a2b2c2d2e2f303132333435363738393a3b3c3d3e3f404142434445464748494a4b4c4d4e4f505152535455565758595a5b5c5d5e5f606162636465666768696a6b6c6d6e6f707172737475767778797a7b7c7d7e7f808182838485868788898a8b8c8d8e8f909192939495969798999a9b9c9d9e9fa0a1a2a3a4a5a6a7a8a9aaabacadaeafb0b1b2b3b4b5b6b7b8b9babbbcbdbebfc0c1c2c3c4c5c6c7c8c9cacbcccdcecfd0d1d2d3d4d5d6d7d8d9dadbdcdddedfe0e1e2e3e4e5e6e7e8e9eaebecedeeeff0f1f2f3f4f5f6f7f8f9fafbfcfdfeff000102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f202122232425262728292a2b2c2d2e2f303132333435363738393a3b3c3d3e3f404142434445464748494a4b4c4d4e4f505152535455565758595a5b5c5d5e5f606162636465666768696a6b6c6d6e6f707172737475767778797a7b7c7d7e7f808182838485868788898a8b8c8d8e8f909192939495969798999a9b9c9d9e9fa0a1a2a3a4a5a6a7a8a9aaabacadaeafb0b1b2b3b4b5b6b7b8b9babbbcbdbebfc0c1c2c3c4c5c6c7c8c9cacbcccdcecfd0d1d2d3d4d5d6d7d8d9dadbdcdddedfe0e1e2e3e4e5e6e7e8e9eaebecedeeeff0f1f2f3f4f5f6f7f8f9fafbfcfdfeff000102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f202122232425262728292a2b2c2d2e2f303132333435363738393a3b3c3d3e3f404142434445464748494a4b4c4d4e4f505152535455565758595a5b5c5d5e5f606162636465666768696a6b6c6d6e6f707172737475767778797a7b7c7d7e7f808182838485868788898a8b8c8d8e8f909192939495969798999a9b9c9d9e9fa0a1a2a3a4a5a6a7a8a9aaabacadaeafb0b1b2b3b4b5b6b7b8b9babbbcbdbebfc0c1c2c3c4c5c6c7c8c9cacbcccdcecfd0d1d2d3d4d5d6d7d8d9dadbdcdddedfe0e1e2e3e4e5e6e7e8e9eaebecedeeeff0f1f2f3f4f5f6f7f8f9fafbfcfdfeff"
+     }
+    ]
+   }
+  ],
+  [
+   "strings",
+   {
+    "array": [
+     {
+      "string": ""
+     },
+     {
+      "string": "plain ASCII"
+     },
+     {
+      "string": "xxxxxxxxxxxxxx"
+     },
+     {
+      "string": "yyyyyyyyyyyyyyy"
+     },
+     {
+      "string": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
+     },
+     {
+      "string": "caf\u00e9"
+     },
+     {
+      "string": "\u65e5\u672c\u8a9e\u306e\u30c6\u30ad\u30b9\u30c8"
+     },
+     {
+      "string": "emoji \ud83d\ude00 outside the BMP \ud83e\uddea"
+     },
+     {
+      "string": "markup <tag> & \"quotes\" 'apostrophes' ]]> end"
+     },
+     {
+      "string": "  leading and trailing whitespace\n\ttabs  "
+     }
+    ]
+   }
+  ],
+  [
+   "empty array",
+   {
+    "array": []
+   }
+  ],
+  [
+   "empty dict",
+   {
+    "dict": []
+   }
+  ],
+  [
+   "many",
+   {
+    "array": [
+     {
+      "integer": "1000"
+     },
+     {
+      "integer": "1001"
+     },
+     {
+      "integer": "1002"
+     },
+     {
+      "integer": "1003"
+     },
+     {
+      "integer": "1004"
+     },
+     {
+      "integer": "1005"
+     },
+     {
+      "integer": "1006"
+     },
+     {
+      "integer": "1007"
+     },
+     {
+      "integer": "1008"
+     },
+     {
+      "integer": "1009"
+     },
+     {
+      "integer": "1010"
+     },
+     {
+      "integer": "1011"
+     },
+     {
+      "integer": "1012"
+     },
+     {
+      "integer": "1013"
+     },
+     {
+      "integer": "1014"
+     },
+     {
+      "integer": "1015"
+     },
+     {
+      "integer": "1016"
+     },
+     {
+      "integer": "1017"
+     },
+     {
+      "integer": "1018"
+     },
+     {
+      "integer": "1019"
+     },
+     {
+      "integer": "1020"
+     },
+     {
+      "integer": "1021"
+     },
+     {
+      "integer": "1022"
+     },
+     {
+      "integer": "1023"
+     },
+     {
+      "integer": "1024"
+     },
+     {
+      "integer": "1025"
+     },
+     {
+      "integer": "1026"
+     },
+     {
+      "integer": "1027"
+     },
+     {
+      "integer": "1028"
+     },
+     {
+      "integer": "1029"
+     },
+     {
+      "integer": "1030"
+     },
+     {
+      "integer": "1031"
+     },
+     {
+      "integer": "1032"
+     },
+     {
+      "integer": "1033"
+     },
+     {
+      "integer": "1034"
+     },
+     {
+      "integer": "1035"
+     },
+     {
+      "integer": "1036"
+     },
+     {
+      "integer": "1037"
+     },
+     {
+      "integer": "1038"
+     },
+     {
+      "integer": "1039"
+     }
+    ]
+   }
+  ],
+  [
+   "wide",
+   {
+    "dict": [
+     [
+      "key 000",
+      {
+       "integer": "0"
+      }
+     ],
+     [
+      "key 001",
+      {
+       "integer": "1"
+      }
+     ],
+     [
+      "key 002",
+      {
+       "integer": "2"
+      }
+     ],
+     [
+      "key 003",
+      {
+       "integer": "3"
+      }
+     ],
+     [
+      "key 004",
+      {
+       "integer": "4"
+      }
+     ],
+     [
+      "key 005",
+      {
+       "integer": "5"
+      }
+     ],
+     [
+      "key 006",
+      {
+       "integer": "6"
+      }
+     ],
+     [
+      "key 007",
+      {
+       "integer": "7"
+      }
+     ],
+     [
+      "key 008",
+      {
+       "integer": "8"
+      }
+     ],
+     [
+      "key 009",
+      {
+       "integer": "9"
+      }
+     ],
+     [
+      "key 010",
+      {
+       "integer": "10"
+      }
+     ],
+     [
+      "key 011",
+      {
+       "integer": "11"
+      }
+     ],
+     [
+      "key 012",
+      {
+       "integer": "12"
+      }
+     ],
+     [
+      "key 013",
+      {
+       "integer": "13"
+      }
+     ],
+     [
+      "key 014",
+      {
+       "integer": "14"
+      }
+     ],
+     [
+      "key 015",
+      {
+       "integer": "15"
+      }
+     ],
+     [
+      "key 016",
+      {
+       "integer": "16"
+      }
+     ],
+     [
+      "key 017",
+      {
+       "integer": "17"
+      }
+     ],
+     [
+      "key 018",
+      {
+       "integer": "18"
+      }
+     ],
+     [
+      "key 019",
+      {
+       "integer": "19"
+      }
+     ],
+     [
+      "key 020",
+      {
+       "integer": "20"
+      }
+     ],
+     [
+      "key 021",
+      {
+       "integer": "21"
+      }
+     ],
+     [
+      "key 022",
+      {
+       "integer": "22"
+      }
+     ],
+     [
+      "key 023",
+      {
+       "integer": "23"
+      }
+     ],
+     [
+      "key 024",
+      {
+       "integer": "24"
+      }
+     ],
+     [
+      "key 025",
+      {
+       "integer": "25"
+      }
+     ],
+     [
+      "key 026",
+      {
+       "integer": "26"
+      }
+     ],
+     [
+      "key 027",
+      {
+       "integer": "27"
+      }
+     ],
+     [
+      "key 028",
+      {
+       "integer": "28"
+      }
+     ],
+     [
+      "key 029",
+      {
+       "integer": "29"
+      }
+     ],
+     [
+      "key 030",
+      {
+       "integer": "30"
+      }
+     ],
+     [
+      "key 031",
+      {
+       "integer": "31"
+      }
+     ],
+     [
+      "key 032",
+      {
+       "integer": "32"
+      }
+     ],
+     [
+      "key 033",
+      {
+       "integer": "33"
+      }
+     ],
+     [
+      "key 034",
+      {
+       "integer": "34"
+      }
+     ],
+     [
+      "key 035",
+      {
+       "integer": "35"
+      }
+     ],
+     [
+      "key 036",
+      {
+       "integer": "36"
+      }
+     ],
+     [
+      "key 037",
+      {
+       "integer": "37"
+      }
+     ],
+     [
+      "key 038",
+      {
+       "integer": "38"
+      }
+     ],
+     [
+      "key 039",
+      {
+       "integer": "39"
+      }
+     ],
+     [
+      "key 040",
+      {
+       "integer": "40"
+      }
+     ],
+     [
+      "key 041",
+      {
+       "integer": "41"
+      }
+     ],
+     [
+      "key 042",
+      {
+       "integer": "42"
+      }
+     ],
+     [
+      "key 043",
+      {
+       "integer": "43"
+      }
+     ],
+     [
+      "key 044",
+      {
+       "integer": "44"
+      }
+     ],
+     [
+      "key 045",
+      {
+       "integer": "45"
+      }
+     ],
+     [
+      "key 046",
+      {
+       "integer": "46"
+      }
+     ],
+     [
+      "key 047",
+      {
+       "integer": "47"
+      }
+     ],
+     [
+      "key 048",
+      {
+       "integer": "48"
+      }
+     ],
+     [
+      "key 049",
+      {
+       "integer": "49"
+      }
+     ],
+     [
+      "key 050",
+      {
+       "integer": "50"
+      }
+     ],
+     [
+      "key 051",
+      {
+       "integer": "51"
+      }
+     ],
+     [
+      "key 052",
+      {
+       "integer": "52"
+      }
+     ],
+     [
+      "key 053",
+      {
+       "integer": "53"
+      }
+     ],
+     [
+      "key 054",
+      {
+       "integer": "54"
+      }
+     ],
+     [
+      "key 055",
+      {
+       "integer": "55"
+      }
+     ],
+     [
+      "key 056",
+      {
+       "integer": "56"
+      }
+     ],
+     [
+      "key 057",
+      {
+       "integer": "57"
+      }
+     ],
+     [
+      "key 058",
+      {
+       "integer": "58"
+      }
+     ],
+     [
+      "key 059",
+      {
+       "integer": "59"
+      }
+     ],
+     [
+      "key 060",
+      {
+       "integer": "60"
+      }
+     ],
+     [
+      "key 061",
+      {
+       "integer": "61"
+      }
+     ],
+     [
+      "key 062",
+      {
+       "integer": "62"
+      }
+     ],
+     [
+      "key 063",
+      {
+       "integer": "63"
+      }
+     ],
+     [
+      "key 064",
+      {
+       "integer": "64"
+      }
+     ],
+     [
+      "key 065",
+      {
+       "integer": "65"
+      }
+     ],
+     [
+      "key 066",
+      {
+       "integer": "66"
+      }
+     ],
+     [
+      "key 067",
+      {
+       "integer": "67"
+      }
+     ],
+     [
+      "key 068",
+      {
+       "integer": "68"
+      }
+     ],
+     [
+      "key 069",
+      {
+       "integer": "69"
+      }
+     ],
+     [
+      "key 070",
+      {
+       "integer": "70"
+      }
+     ],
+     [
+      "key 071",
+      {
+       "integer": "71"
+      }
+     ],
+     [
+      "key 072",
+      {
+       "integer": "72"
+      }
+     ],
+     [
+      "key 073",
+      {
+       "integer": "73"
+      }
+     ],
+     [
+      "key 074",
+      {
+       "integer": "74"
+      }
+     ],
+     [
+      "key 075",
+      {
+       "integer": "75"
+      }
+     ],
+     [
+      "key 076",
+      {
+       "integer": "76"
+      }
+     ],
+     [
+      "key 077",
+      {
+       "integer": "77"
+      }
+     ],
+     [
+      "key 078",
+      {
+       "integer": "78"
+      }
+     ],
+     [
+      "key 079",
+      {
+       "integer": "79"
+      }
+     ],
+     [
+      "key 080",
+      {
+       "integer": "80"
+      }
+     ],
+     [
+      "key 081",
+      {
+       "integer": "81"
+      }
+     ],
+     [
+      "key 082",
+      {
+       "integer": "82"
+      }
+     ],
+     [
+      "key 083",
+      {
+       "integer": "83"
+      }
+     ],
+     [
+      "key 084",
+      {
+       "integer": "84"
+      }
+     ],
+     [
+      "key 085",
+      {
+       "integer": "85"
+      }
+     ],
+     [
+      "key 086",
+      {
+       "integer": "86"
+      }
+     ],
+     [
+      "key 087",
+      {
+       "integer": "87"
+      }
+     ],
+     [
+      "key 088",
+      {
+       "integer": "88"
+      }
+     ],
+     [
+      "key 089",
+      {
+       "integer": "89"
+      }
+     ],
+     [
+      "key 090",
+      {
+       "integer": "90"
+      }
+     ],
+     [
+      "key 091",
+      {
+       "integer": "91"
+      }
+     ],
+     [
+      "key 092",
+      {
+       "integer": "92"
+      }
+     ],
+     [
+      "key 093",
+      {
+       "integer": "93"
+      }
+     ],
+     [
+      "key 094",
+      {
+       "integer": "94"
+      }
+     ],
+     [
+      "key 095",
+      {
+       "integer": "95"
+      }
+     ],
+     [
+      "key 096",
+      {
+       "integer": "96"
+      }
+     ],
+     [
+      "key 097",
+      {
+       "integer": "97"
+      }
+     ],
+     [
+      "key 098",
+      {
+       "integer": "98"
+      }
+     ],
+     [
+      "key 099",
+      {
+       "integer": "99"
+      }
+     ],
+     [
+      "key 100",
+      {
+       "integer": "100"
+      }
+     ],
+     [
+      "key 101",
+      {
+       "integer": "101"
+      }
+     ],
+     [
+      "key 102",
+      {
+       "integer": "102"
+      }
+     ],
+     [
+      "key 103",
+      {
+       "integer": "103"
+      }
+     ],
+     [
+      "key 104",
+      {
+       "integer": "104"
+      }
+     ],
+     [
+      "key 105",
+      {
+       "integer": "105"
+      }
+     ],
+     [
+      "key 106",
+      {
+       "integer": "106"
+      }
+     ],
+     [
+      "key 107",
+      {
+       "integer": "107"
+      }
+     ],
+     [
+      "key 108",
+      {
+       "integer": "108"
+      }
+     ],
+     [
+      "key 109",
+      {
+       "integer": "109"
+      }
+     ],
+     [
+      "key 110",
+      {
+       "integer": "110"
+      }
+     ],
+     [
+      "key 111",
+      {
+       "integer": "111"
+      }
+     ],
+     [
+      "key 112",
+      {
+       "integer": "112"
+      }
+     ],
+     [
+      "key 113",
+      {
+       "integer": "113"
+      }
+     ],
+     [
+      "key 114",
+      {
+       "integer": "114"
+      }
+     ],
+     [
+      "key 115",
+      {
+       "integer": "115"
+      }
+     ],
+     [
+      "key 116",
+      {
+       "integer": "116"
+      }
+     ],
+     [
+      "key 117",
+      {
+       "integer": "117"
+      }
+     ],
+     [
+      "key 118",
+      {
+       "integer": "118"
+      }
+     ],
+     [
+      "key 119",
+      {
+       "integer": "119"
+      }
+     ],
+     [
+      "key 120",
+      {
+       "integer": "120"
+      }
+     ],
+     [
+      "key 121",
+      {
+       "integer": "121"
+      }
+     ],
+     [
+      "key 122",
+      {
+       "integer": "122"
+      }
+     ],
+     [
+      "key 123",
+      {
+       "integer": "123"
+      }
+     ],
+     [
+      "key 124",
+      {
+       "integer": "124"
+      }
+     ],
+     [
+      "key 125",
+      {
+       "integer": "125"
+      }
+     ],
+     [
+      "key 126",
+      {
+       "integer": "126"
+      }
+     ],
+     [
+      "key 127",
+      {
+       "integer": "127"
+      }
+     ],
+     [
+      "key 128",
+      {
+       "integer": "128"
+      }
+     ],
+     [
+      "key 129",
+      {
+       "integer": "129"
+      }
+     ],
+     [
+      "key 130",
+      {
+       "integer": "130"
+      }
+     ],
+     [
+      "key 131",
+      {
+       "integer": "131"
+      }
+     ],
+     [
+      "key 132",
+      {
+       "integer": "132"
+      }
+     ],
+     [
+      "key 133",
+      {
+       "integer": "133"
+      }
+     ],
+     [
+      "key 134",
+      {
+       "integer": "134"
+      }
+     ],
+     [
+      "key 135",
+      {
+       "integer": "135"
+      }
+     ],
+     [
+      "key 136",
+      {
+       "integer": "136"
+      }
+     ],
+     [
+      "key 137",
+      {
+       "integer": "137"
+      }
+     ],
+     [
+      "key 138",
+      {
+       "integer": "138"
+      }
+     ],
+     [
+      "key 139",
+      {
+       "integer": "139"
+      }
+     ],
+     [
+      "key 140",
+      {
+       "integer": "140"
+      }
+     ],
+     [
+      "key 141",
+      {
+       "integer": "141"
+      }
+     ],
+     [
+      "key 142",
+      {
+       "integer": "142"
+      }
+     ],
+     [
+      "key 143",
+      {
+       "integer": "143"
+      }
+     ],
+     [
+      "key 144",
+      {
+       "integer": "144"
+      }
+     ],
+     [
+      "key 145",
+      {
+       "integer": "145"
+      }
+     ],
+     [
+      "key 146",
+      {
+       "integer": "146"
+      }
+     ],
+     [
+      "key 147",
+      {
+       "integer": "147"
+      }
+     ],
+     [
+      "key 148",
+      {
+       "integer": "148"
+      }
+     ],
+     [
+      "key 149",
+      {
+       "integer": "149"
+      }
+     ],
+     [
+      "key 150",
+      {
+       "integer": "150"
+      }
+     ],
+     [
+      "key 151",
+      {
+       "integer": "151"
+      }
+     ],
+     [
+      "key 152",
+      {
+       "integer": "152"
+      }
+     ],
+     [
+      "key 153",
+      {
+       "integer": "153"
+      }
+     ],
+     [
+      "key 154",
+      {
+       "integer": "154"
+      }
+     ],
+     [
+      "key 155",
+      {
+       "integer": "155"
+      }
+     ],
+     [
+      "key 156",
+      {
+       "integer": "156"
+      }
+     ],
+     [
+      "key 157",
+      {
+       "integer": "157"
+      }
+     ],
+     [
+      "key 158",
+      {
+       "integer": "158"
+      }
+     ],
+     [
+      "key 159",
+      {
+       "integer": "159"
+      }
+     ],
+     [
+      "key 160",
+      {
+       "integer": "160"
+      }
+     ],
+     [
+      "key 161",
+      {
+       "integer": "161"
+      }
+     ],
+     [
+      "key 162",
+      {
+       "integer": "162"
+      }
+     ],
+     [
+      "key 163",
+      {
+       "integer": "163"
+      }
+     ],
+     [
+      "key 164",
+      {
+       "integer": "164"
+      }
+     ],
+     [
+      "key 165",
+      {
+       "integer": "165"
+      }
+     ],
+     [
+      "key 166",
+      {
+       "integer": "166"
+      }
+     ],
+     [
+      "key 167",
+      {
+       "integer": "167"
+      }
+     ],
+     [
+      "key 168",
+      {
+       "integer": "168"
+      }
+     ],
+     [
+      "key 169",
+      {
+       "integer": "169"
+      }
+     ],
+     [
+      "key 170",
+      {
+       "integer": "170"
+      }
+     ],
+     [
+      "key 171",
+      {
+       "integer": "171"
+      }
+     ],
+     [
+      "key 172",
+      {
+       "integer": "172"
+      }
+     ],
+     [
+      "key 173",
+      {
+       "integer": "173"
+      }
+     ],
+     [
+      "key 174",
+      {
+       "integer": "174"
+      }
+     ],
+     [
+      "key 175",
+      {
+       "integer": "175"
+      }
+     ],
+     [
+      "key 176",
+      {
+       "integer": "176"
+      }
+     ],
+     [
+      "key 177",
+      {
+       "integer": "177"
+      }
+     ],
+     [
+      "key 178",
+      {
+       "integer": "178"
+      }
+     ],
+     [
+      "key 179",
+      {
+       "integer": "179"
+      }
+     ],
+     [
+      "key 180",
+      {
+       "integer": "180"
+      }
+     ],
+     [
+      "key 181",
+      {
+       "integer": "181"
+      }
+     ],
+     [
+      "key 182",
+      {
+       "integer": "182"
+      }
+     ],
+     [
+      "key 183",
+      {
+       "integer": "183"
+      }
+     ],
+     [
+      "key 184",
+      {
+       "integer": "184"
+      }
+     ],
+     [
+      "key 185",
+      {
+       "integer": "185"
+      }
+     ],
+     [
+      "key 186",
+      {
+       "integer": "186"
+      }
+     ],
+     [
+      "key 187",
+      {
+       "integer": "187"
+      }
+     ],
+     [
+      "key 188",
+      {
+       "integer": "188"
+      }
+     ],
+     [
+      "key 189",
+      {
+       "integer": "189"
+      }
+     ],
+     [
+      "key 190",
+      {
+       "integer": "190"
+      }
+     ],
+     [
+      "key 191",
+      {
+       "integer": "191"
+      }
+     ],
+     [
+      "key 192",
+      {
+       "integer": "192"
+      }
+     ],
+     [
+      "key 193",
+      {
+       "integer": "193"
+      }
+     ],
+     [
+      "key 194",
+      {
+       "integer": "194"
+      }
+     ],
+     [
+      "key 195",
+      {
+       "integer": "195"
+      }
+     ],
+     [
+      "key 196",
+      {
+       "integer": "196"
+      }
+     ],
+     [
+      "key 197",
+      {
+       "integer": "197"
+      }
+     ],
+     [
+      "key 198",
+      {
+       "integer": "198"
+      }
+     ],
+     [
+      "key 199",
+      {
+       "integer": "199"
+      }
+     ],
+     [
+      "key 200",
+      {
+       "integer": "200"
+      }
+     ],
+     [
+      "key 201",
+      {
+       "integer": "201"
+      }
+     ],
+     [
+      "key 202",
+      {
+       "integer": "202"
+      }
+     ],
+     [
+      "key 203",
+      {
+       "integer": "203"
+      }
+     ],
+     [
+      "key 204",
+      {
+       "integer": "204"
+      }
+     ],
+     [
+      "key 205",
+      {
+       "integer": "205"
+      }
+     ],
+     [
+      "key 206",
+      {
+       "integer": "206"
+      }
+     ],
+     [
+      "key 207",
+      {
+       "integer": "207"
+      }
+     ],
+     [
+      "key 208",
+      {
+       "integer": "208"
+      }
+     ],
+     [
+      "key 209",
+      {
+       "integer": "209"
+      }
+     ],
+     [
+      "key 210",
+      {
+       "integer": "210"
+      }
+     ],
+     [
+      "key 211",
+      {
+       "integer": "211"
+      }
+     ],
+     [
+      "key 212",
+      {
+       "integer": "212"
+      }
+     ],
+     [
+      "key 213",
+      {
+       "integer": "213"
+      }
+     ],
+     [
+      "key 214",
+      {
+       "integer": "214"
+      }
+     ],
+     [
+      "key 215",
+      {
+       "integer": "215"
+      }
+     ],
+     [
+      "key 216",
+      {
+       "integer": "216"
+      }
+     ],
+     [
+      "key 217",
+      {
+       "integer": "217"
+      }
+     ],
+     [
+      "key 218",
+      {
+       "integer": "218"
+      }
+     ],
+     [
+      "key 219",
+      {
+       "integer": "219"
+      }
+     ],
+     [
+      "key 220",
+      {
+       "integer": "220"
+      }
+     ],
+     [
+      "key 221",
+      {
+       "integer": "221"
+      }
+     ],
+     [
+      "key 222",
+      {
+       "integer": "222"
+      }
+     ],
+     [
+      "key 223",
+      {
+       "integer": "223"
+      }
+     ],
+     [
+      "key 224",
+      {
+       "integer": "224"
+      }
+     ],
+     [
+      "key 225",
+      {
+       "integer": "225"
+      }
+     ],
+     [
+      "key 226",
+      {
+       "integer": "226"
+      }
+     ],
+     [
+      "key 227",
+      {
+       "integer": "227"
+      }
+     ],
+     [
+      "key 228",
+      {
+       "integer": "228"
+      }
+     ],
+     [
+      "key 229",
+      {
+       "integer": "229"
+      }
+     ],
+     [
+      "key 230",
+      {
+       "integer": "230"
+      }
+     ],
+     [
+      "key 231",
+      {
+       "integer": "231"
+      }
+     ],
+     [
+      "key 232",
+      {
+       "integer": "232"
+      }
+     ],
+     [
+      "key 233",
+      {
+       "integer": "233"
+      }
+     ],
+     [
+      "key 234",
+      {
+       "integer": "234"
+      }
+     ],
+     [
+      "key 235",
+      {
+       "integer": "235"
+      }
+     ],
+     [
+      "key 236",
+      {
+       "integer": "236"
+      }
+     ],
+     [
+      "key 237",
+      {
+       "integer": "237"
+      }
+     ],
+     [
+      "key 238",
+      {
+       "integer": "238"
+      }
+     ],
+     [
+      "key 239",
+      {
+       "integer": "239"
+      }
+     ],
+     [
+      "key 240",
+      {
+       "integer": "240"
+      }
+     ],
+     [
+      "key 241",
+      {
+       "integer": "241"
+      }
+     ],
+     [
+      "key 242",
+      {
+       "integer": "242"
+      }
+     ],
+     [
+      "key 243",
+      {
+       "integer": "243"
+      }
+     ],
+     [
+      "key 244",
+      {
+       "integer": "244"
+      }
+     ],
+     [
+      "key 245",
+      {
+       "integer": "245"
+      }
+     ],
+     [
+      "key 246",
+      {
+       "integer": "246"
+      }
+     ],
+     [
+      "key 247",
+      {
+       "integer": "247"
+      }
+     ],
+     [
+      "key 248",
+      {
+       "integer": "248"
+      }
+     ],
+     [
+      "key 249",
+      {
+       "integer": "249"
+      }
+     ],
+     [
+      "key 250",
+      {
+       "integer": "250"
+      }
+     ],
+     [
+      "key 251",
+      {
+       "integer": "251"
+      }
+     ],
+     [
+      "key 252",
+      {
+       "integer": "252"
+      }
+     ],
+     [
+      "key 253",
+      {
+       "integer": "253"
+      }
+     ],
+     [
+      "key 254",
+      {
+       "integer": "254"
+      }
+     ],
+     [
+      "key 255",
+      {
+       "integer": "255"
+      }
+     ],
+     [
+      "key 256",
+      {
+       "integer": "256"
+      }
+     ],
+     [
+      "key 257",
+      {
+       "integer": "257"
+      }
+     ],
+     [
+      "key 258",
+      {
+       "integer": "258"
+      }
+     ],
+     [
+      "key 259",
+      {
+       "integer": "259"
+      }
+     ],
+     [
+      "key 260",
+      {
+       "integer": "260"
+      }
+     ],
+     [
+      "key 261",
+      {
+       "integer": "261"
+      }
+     ],
+     [
+      "key 262",
+      {
+       "integer": "262"
+      }
+     ],
+     [
+      "key 263",
+      {
+       "integer": "263"
+      }
+     ],
+     [
+      "key 264",
+      {
+       "integer": "264"
+      }
+     ],
+     [
+      "key 265",
+      {
+       "integer": "265"
+      }
+     ],
+     [
+      "key 266",
+      {
+       "integer": "266"
+      }
+     ],
+     [
+      "key 267",
+      {
+       "integer": "267"
+      }
+     ],
+     [
+      "key 268",
+      {
+       "integer": "268"
+      }
+     ],
+     [
+      "key 269",
+      {
+       "integer": "269"
+      }
+     ],
+     [
+      "key 270",
+      {
+       "integer": "270"
+      }
+     ],
+     [
+      "key 271",
+      {
+       "integer": "271"
+      }
+     ],
+     [
+      "key 272",
+      {
+       "integer": "272"
+      }
+     ],
+     [
+      "key 273",
+      {
+       "integer": "273"
+      }
+     ],
+     [
+      "key 274",
+      {
+       "integer": "274"
+      }
+     ],
+     [
+      "key 275",
+      {
+       "integer": "275"
+      }
+     ],
+     [
+      "key 276",
+      {
+       "integer": "276"
+      }
+     ],
+     [
+      "key 277",
+      {
+       "integer": "277"
+      }
+     ],
+     [
+      "key 278",
+      {
+       "integer": "278"
+      }
+     ],
+     [
+      "key 279",
+      {
+       "integer": "279"
+      }
+     ],
+     [
+      "key 280",
+      {
+       "integer": "280"
+      }
+     ],
+     [
+      "key 281",
+      {
+       "integer": "281"
+      }
+     ],
+     [
+      "key 282",
+      {
+       "integer": "282"
+      }
+     ],
+     [
+      "key 283",
+      {
+       "integer": "283"
+      }
+     ],
+     [
+      "key 284",
+      {
+       "integer": "284"
+      }
+     ],
+     [
+      "key 285",
+      {
+       "integer": "285"
+      }
+     ],
+     [
+      "key 286",
+      {
+       "integer": "286"
+      }
+     ],
+     [
+      "key 287",
+      {
+       "integer": "287"
+      }
+     ],
+     [
+      "key 288",
+      {
+       "integer": "288"
+      }
+     ],
+     [
+      "key 289",
+      {
+       "integer": "289"
+      }
+     ],
+     [
+      "key 290",
+      {
+       "integer": "290"
+      }
+     ],
+     [
+      "key 291",
+      {
+       "integer": "291"
+      }
+     ],
+     [
+      "key 292",
+      {
+       "integer": "292"
+      }
+     ],
+     [
+      "key 293",
+      {
+       "integer": "293"
+      }
+     ],
+     [
+      "key 294",
+      {
+       "integer": "294"
+      }
+     ],
+     [
+      "key 295",
+      {
+       "integer": "295"
+      }
+     ],
+     [
+      "key 296",
+      {
+       "integer": "296"
+      }
+     ],
+     [
+      "key 297",
+      {
+       "integer": "297"
+      }
+     ],
+     [
+      "key 298",
+      {
+       "integer": "298"
+      }
+     ],
+     [
+      "key 299",
+      {
+       "integer": "299"
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "deep",
+   {
+    "array": [
+     {
+      "dict": [
+       [
+        "level",
+        {
+         "array": [
+          {
+           "dict": [
+            [
+             "level",
+             {
+              "array": [
+               {
+                "dict": [
+                 [
+                  "level",
+                  {
+                   "array": [
+                    {
+                     "dict": [
+                      [
+                       "level",
+                       {
+                        "array": [
+                         {
+                          "dict": [
+                           [
+                            "level",
+                            {
+                             "array": [
+                              {
+                               "dict": [
+                                [
+                                 "level",
+                                 {
+                                  "array": [
+                                   {
+                                    "dict": [
+                                     [
+                                      "level",
+                                      {
+                                       "array": [
+                                        {
+                                         "dict": [
+                                          [
+                                           "level",
+                                           {
+                                            "array": [
+                                             {
+                                              "dict": [
+                                               [
+                                                "level",
+                                                {
+                                                 "array": [
+                                                  {
+                                                   "dict": [
+                                                    [
+                                                     "level",
+                                                     {
+                                                      "array": [
+                                                       {
+                                                        "dict": [
+                                                         [
+                                                          "level",
+                                                          {
+                                                           "array": [
+                                                            {
+                                                             "dict": [
+                                                              [
+                                                               "level",
+                                                               {
+                                                                "array": [
+                                                                 {
+                                                                  "dict": [
+                                                                   [
+                                                                    "level",
+                                                                    {
+                                                                     "array": [
+                                                                      {
+                                                                       "dict": [
+                                                                        [
+                                                                         "level",
+                                                                         {
+                                                                          "array": [
+                                                                           {
+                                                                            "dict": [
+                                                                             [
+                                                                              "level",
+                                                                              {
+                                                                               "array": [
+                                                                                {
+                                                                                 "dict": [
+                                                                                  [
+                                                                                   "level",
+                                                                                   {
+                                                                                    "array": [
+                                                                                     {
+                                                                                      "dict": [
+                                                                                       [
+                                                                                        "level",
+                                                                                        {
+                                                                                         "array": [
+                                                                                          {
+                                                                                           "dict": [
+                                                                                            [
+                                                                                             "level",
+                                                                                             {
+                                                                                              "array": [
+                                                                                               {
+                                                                                                "dict": [
+                                                                                                 [
+                                                                                                  "level",
+                                                                                                  {
+                                                                                                   "array": [
+                                                                                                    {
+                                                                                                     "dict": [
+                                                                                                      [
+                                                                                                       "level",
+                                                                                                       {
+                                                                                                        "string": "bottom"
+                                                                                                       }
+                                                                                                      ]
+                                                                                                     ]
+                                                                                                    }
+                                                                                                   ]
+                                                                                                  }
+                                                                                                 ]
+                                                                                                ]
+                                                                                               }
+                                                                                              ]
+                                                                                             }
+                                                                                            ]
+                                                                                           ]
+                                                                                          }
+                                                                                         ]
+                                                                                        }
+                                                                                       ]
+                                                                                      ]
+                                                                                     }
+                                                                                    ]
+                                                                                   }
+                                                                                  ]
+                                                                                 ]
+                                                                                }
+                                                                               ]
+                                                                              }
+                                                                             ]
+                                                                            ]
+                                                                           }
+                                                                          ]
+                                                                         }
+                                                                        ]
+                                                                       ]
+                                                                      }
+                                                                     ]
+                                                                    }
+                                                                   ]
+                                                                  ]
+                                                                 }
+                                                                ]
+                                                               }
+                                                              ]
+                                                             ]
+                                                            }
+                                                           ]
+                                                          }
+                                                         ]
+                                                        ]
+                                                       }
+                                                      ]
+                                                     }
+                                                    ]
+                                                   ]
+                                                  }
+                                                 ]
+                                                }
+                                               ]
+                                              ]
+                                             }
+                                            ]
+                                           }
+                                          ]
+                                         ]
+                                        }
+                                       ]
+                                      }
+                                     ]
+                                    ]
+                                   }
+                                  ]
+                                 }
+                                ]
+                               ]
+                              }
+                             ]
+                            }
+                           ]
+                          ]
+                         }
+                        ]
+                       }
+                      ]
+                     ]
+                    }
+                   ]
+                  }
+                 ]
+                ]
+               }
+              ]
+             }
+            ]
+           ]
+          }
+         ]
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   "unicode keys",
+   {
+    "dict": [
+     [
+      "cl\u00e9",
+      {
+       "integer": "1"
+      }
+     ],
+     [
+      "\u952e",
+      {
+       "integer": "2"
+      }
+     ],
+     [
+      "\ud83d\udd11",
+      {
+       "integer": "3"
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "order",
+   {
+    "dict": [
+     [
+      "zebra",
+      {
+       "integer": "1"
+      }
+     ],
+     [
+      "apple",
+      {
+       "integer": "2"
+      }
+     ],
+     [
+      "mango",
+      {
+       "integer": "3"
+      }
+     ]
+    ]
+   }
+  ]
+ ]
+}

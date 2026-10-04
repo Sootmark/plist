@@ -1,0 +1,927 @@
+{
+ "dict": [
+  [
+   "ServerRestrictedDomains",
+   {
+    "string": ""
+   }
+  ],
+  [
+   "NotifyDaemonNextTimeKeyBagIsUnlocked",
+   {
+    "bool": false
+   }
+  ],
+  [
+   "AccountEnabledDate",
+   {
+    "date": "2023-04-15T13:58:42.481634Z"
+   }
+  ],
+  [
+   "BackupStateInfo",
+   {
+    "dict": [
+     [
+      "errors",
+      {
+       "array": [
+        {
+         "dict": [
+          [
+           "code",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "domain",
+           {
+            "string": "MBErrorDomain"
+           }
+          ],
+          [
+           "localizedDescription",
+           {
+            "string": "Backup succeeded"
+           }
+          ],
+          [
+           "date",
+           {
+            "date": "2023-05-03T01:11:53.195466Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "code",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "domain",
+           {
+            "string": "MBErrorDomain"
+           }
+          ],
+          [
+           "localizedDescription",
+           {
+            "string": "Backup succeeded"
+           }
+          ],
+          [
+           "date",
+           {
+            "date": "2023-05-05T01:51:51.329024Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "code",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "domain",
+           {
+            "string": "MBErrorDomain"
+           }
+          ],
+          [
+           "localizedDescription",
+           {
+            "string": "Backup succeeded"
+           }
+          ],
+          [
+           "date",
+           {
+            "date": "2023-05-06T02:50:56.368389Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "code",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "domain",
+           {
+            "string": "MBErrorDomain"
+           }
+          ],
+          [
+           "localizedDescription",
+           {
+            "string": "Backup succeeded"
+           }
+          ],
+          [
+           "date",
+           {
+            "date": "2023-05-07T02:51:34.964246Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "code",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "domain",
+           {
+            "string": "MBErrorDomain"
+           }
+          ],
+          [
+           "localizedDescription",
+           {
+            "string": "Backup succeeded"
+           }
+          ],
+          [
+           "date",
+           {
+            "date": "2023-05-08T16:23:37.651853Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "code",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "domain",
+           {
+            "string": "MBErrorDomain"
+           }
+          ],
+          [
+           "localizedDescription",
+           {
+            "string": "Backup succeeded"
+           }
+          ],
+          [
+           "date",
+           {
+            "date": "2023-05-10T01:15:17.994980Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "code",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "domain",
+           {
+            "string": "MBErrorDomain"
+           }
+          ],
+          [
+           "localizedDescription",
+           {
+            "string": "Backup succeeded"
+           }
+          ],
+          [
+           "date",
+           {
+            "date": "2023-05-12T17:02:20.963616Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "code",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "domain",
+           {
+            "string": "MBErrorDomain"
+           }
+          ],
+          [
+           "localizedDescription",
+           {
+            "string": "Backup succeeded"
+           }
+          ],
+          [
+           "date",
+           {
+            "date": "2023-05-15T12:25:44.060502Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "code",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "domain",
+           {
+            "string": "MBErrorDomain"
+           }
+          ],
+          [
+           "localizedDescription",
+           {
+            "string": "Backup succeeded"
+           }
+          ],
+          [
+           "date",
+           {
+            "date": "2023-05-17T19:46:49.108991Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "code",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "domain",
+           {
+            "string": "MBErrorDomain"
+           }
+          ],
+          [
+           "localizedDescription",
+           {
+            "string": "Backup succeeded"
+           }
+          ],
+          [
+           "date",
+           {
+            "date": "2023-05-20T01:40:55.339560Z"
+           }
+          ]
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      "estimatedTimeRemaining",
+      {
+       "integer": "1"
+      }
+     ],
+     [
+      "date",
+      {
+       "date": "2023-04-15T14:08:21.008032Z"
+      }
+     ],
+     [
+      "isCloud",
+      {
+       "bool": true
+      }
+     ],
+     [
+      "isBackground",
+      {
+       "bool": false
+      }
+     ],
+     [
+      "progress",
+      {
+       "real": "3ff0000000000000"
+      }
+     ],
+     [
+      "state",
+      {
+       "integer": "4"
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "PreflightSizing",
+   {
+    "dict": [
+     [
+      "AppDomainGroup-group.BeReal",
+      {
+       "integer": "418"
+      }
+     ],
+     [
+      "AppDomain-com.skype.skype",
+      {
+       "integer": "3166"
+      }
+     ],
+     [
+      "KeyboardDomain",
+      {
+       "integer": "2965504"
+      }
+     ],
+     [
+      "AppDomain-com.apple.Music",
+      {
+       "integer": "442906"
+      }
+     ],
+     [
+      "AppDomainGroup-group.ch.protonmail.protonmail",
+      {
+       "integer": "18307"
+      }
+     ],
+     [
+      "SysSharedContainerDomain-systemgroup.com.apple.icloud.findmydevice.managed",
+      {
+       "integer": "725"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.apple.tips",
+      {
+       "integer": "110268"
+      }
+     ],
+     [
+      "AppDomainPlugin-com.atebits.Tweetie2.NotificationServiceExtension",
+      {
+       "integer": "1076"
+      }
+     ],
+     [
+      "AppDomain-com.mewe",
+      {
+       "integer": "669556"
+      }
+     ],
+     [
+      "_TotalSize",
+      {
+       "integer": "31198674"
+      }
+     ],
+     [
+      "AppDomain-net.whatsapp.WhatsApp",
+      {
+       "integer": "2437"
+      }
+     ],
+     [
+      "AppDomainGroup-group.org.joinmastodon.app",
+      {
+       "integer": "430272"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.apple.iBooks",
+      {
+       "integer": "30031"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.spotify.client.widget",
+      {
+       "integer": "2099"
+      }
+     ],
+     [
+      "NetworkDomain",
+      {
+       "integer": "412"
+      }
+     ],
+     [
+      "AppDomainGroup-group.viber.share.container",
+      {
+       "integer": "757798"
+      }
+     ],
+     [
+      "AppDomain-com.spotify.client",
+      {
+       "integer": "452471"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.duckduckgo.contentblocker",
+      {
+       "integer": "1002333"
+      }
+     ],
+     [
+      "RootDomain",
+      {
+       "integer": "166103"
+      }
+     ],
+     [
+      "AppDomain-com.apple.siri",
+      {
+       "integer": "91"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.apple.Maps",
+      {
+       "integer": "918705"
+      }
+     ],
+     [
+      "AppDomain-com.viber",
+      {
+       "integer": "249849"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.spotify.client.notification",
+      {
+       "integer": "42"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.linecorp.line",
+      {
+       "integer": "5829"
+      }
+     ],
+     [
+      "AppDomain-com.apple.ScreenshotServicesService",
+      {
+       "integer": "1935"
+      }
+     ],
+     [
+      "AppDomainPlugin-com.apple.Maps.GeneralMapsWidget",
+      {
+       "integer": "171"
+      }
+     ],
+     [
+      "SystemPreferencesDomain",
+      {
+       "integer": "28913"
+      }
+     ],
+     [
+      "WirelessDomain",
+      {
+       "integer": "224763"
+      }
+     ],
+     [
+      "MediaDomain",
+      {
+       "integer": "3883008"
+      }
+     ],
+     [
+      "AppDomainGroup-group.is.workflow.my.app",
+      {
+       "integer": "178"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.wickr.pro.prod",
+      {
+       "integer": "896387"
+      }
+     ],
+     [
+      "SysSharedContainerDomain-systemgroup.com.apple.bluetooth",
+      {
+       "integer": "145163"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.reddit.Reddit",
+      {
+       "integer": "1283"
+      }
+     ],
+     [
+      "AppDomain-com.toyopagroup.picaboo",
+      {
+       "integer": "7632"
+      }
+     ],
+     [
+      "AppDomain-ch.protonmail.protonmail",
+      {
+       "integer": "326"
+      }
+     ],
+     [
+      "AppDomainPlaceholder-com.waze.iphone",
+      {
+       "integer": "110339"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.microsoft.shared",
+      {
+       "integer": "152042"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.apple.mail",
+      {
+       "integer": "490"
+      }
+     ],
+     [
+      "AppDomainGroup-group.snapchat.picaboo",
+      {
+       "integer": "9408"
+      }
+     ],
+     [
+      "AppDomainGroup-group.net.whatsapp.WhatsApp.shared",
+      {
+       "integer": "1422031"
+      }
+     ],
+     [
+      "HomeDomain",
+      {
+       "integer": "4824692"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.zhiliaoapp.shared",
+      {
+       "integer": "102674"
+      }
+     ],
+     [
+      "MobileDeviceDomain",
+      {
+       "integer": "65536"
+      }
+     ],
+     [
+      "AppDomain-com.wickr.pro.prod",
+      {
+       "integer": "4415"
+      }
+     ],
+     [
+      "AppDomain-com.duckduckgo.mobile.ios",
+      {
+       "integer": "147245"
+      }
+     ],
+     [
+      "AppDomain-com.microsoft.skype.teams",
+      {
+       "integer": "775809"
+      }
+     ],
+     [
+      "KeychainDomain",
+      {
+       "integer": "1019791"
+      }
+     ],
+     [
+      "AppDomain-com.apple.AppStore",
+      {
+       "integer": "37"
+      }
+     ],
+     [
+      "AppDomain-com.apple.iBooks",
+      {
+       "integer": "2512"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.skype.skype",
+      {
+       "integer": "5419008"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.duckduckgo.database",
+      {
+       "integer": "45056"
+      }
+     ],
+     [
+      "AppDomainPlugin-com.apple.AppleMediaDiscovery.AMDEngagementExtension",
+      {
+       "integer": "184320"
+      }
+     ],
+     [
+      "AppDomainPlugin-com.apple.weather.widget",
+      {
+       "integer": "2047"
+      }
+     ],
+     [
+      "AppDomain-com.apple.Maps",
+      {
+       "integer": "44769"
+      }
+     ],
+     [
+      "AppDomain-AlexisBarreyat.BeReal",
+      {
+       "integer": "65083"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.apple.weather",
+      {
+       "integer": "4995"
+      }
+     ],
+     [
+      "ManagedPreferencesDomain",
+      {
+       "integer": "377"
+      }
+     ],
+     [
+      "SysSharedContainerDomain-systemgroup.com.apple.configurationprofiles",
+      {
+       "integer": "26340"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.apple.Music",
+      {
+       "integer": "727556"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.microsoft.skype.teams",
+      {
+       "integer": "233847"
+      }
+     ],
+     [
+      "AppDomain-com.apple.mobilesafari",
+      {
+       "integer": "171299"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.atebits.Tweetie2",
+      {
+       "integer": "323584"
+      }
+     ],
+     [
+      "AppDomain-com.alltrails.AllTrails",
+      {
+       "integer": "1465420"
+      }
+     ],
+     [
+      "AppDomain-jp.naver.line",
+      {
+       "integer": "42186"
+      }
+     ],
+     [
+      "AppDomainGroup-group.com.apple.notes",
+      {
+       "integer": "385609"
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "FetchMissingKeysAtNextUnlock",
+   {
+    "integer": "0"
+   }
+  ],
+  [
+   "LastOnConditionEvents",
+   {
+    "array": [
+     {
+      "string": "2023-05-17T18:07:23.222-04:00|1511.560|1|1|1|0|1|0|0|0|9945|0||0|1|0|0"
+     },
+     {
+      "string": "2023-05-17T18:34:48.075-04:00|2081.645|1|1|1|0|1|0|76319|0|12160|0||0|1|0|0"
+     },
+     {
+      "string": "2023-05-17T19:09:30.163-04:00|965.908|1|1|1|0|1|0|0|0|13126|0||0|1|0|0"
+     },
+     {
+      "string": "2023-05-17T19:25:46.095-04:00|73.050|1|1|1|0|1|0|0|0|13210|0||0|1|0|0"
+     },
+     {
+      "string": "2023-05-17T19:27:45.186-04:00|0.975|1|1|1|0|1|0|0|0|13257|0||0|1|0|0"
+     },
+     {
+      "string": "2023-05-17T19:31:09.963-04:00|235.357|1|1|1|0|1|0|72938|0|13696|0||0|1|0|0"
+     },
+     {
+      "string": "2023-05-17T19:35:08.162-04:00|68301.049|1|1|1|0|1|0|0|0|82000|0||0|1|0|0"
+     },
+     {
+      "string": "2023-05-19T21:38:16.693-04:00|37457.724|1|1|1|0|1|0|120|0|37299|0||0|2|0|0"
+     },
+     {
+      "string": "2023-05-20T08:02:36.736-04:00|4816.187|1|1|0|1|1|0|0|0|42117|0||0|1|0|0"
+     },
+     {
+      "string": "2023-05-20T13:00:23.173-04:00|68.723|1|1|1|0|1|0|31230|0|55236|0||0|2|0|0"
+     }
+    ]
+   }
+  ],
+  [
+   "RemoteConfigurationExpiration",
+   {
+    "date": "2023-05-21T01:40:20.804642Z"
+   }
+  ],
+  [
+   "LocalSnapshotsDisabled",
+   {
+    "string": "false"
+   }
+  ],
+  [
+   "RemoteConfiguration",
+   {
+    "dict": [
+     [
+      "BackupWarningPeriod",
+      {
+       "array": [
+        {
+         "string": "1209600.0"
+        }
+       ]
+      }
+     ],
+     [
+      "MBCKStatusReporterEnabled.BackupDrySpell",
+      {
+       "array": [
+        {
+         "string": "true"
+        }
+       ]
+      }
+     ],
+     [
+      "MBCKStatusReporterEnabled.MBCKRestoreEngine",
+      {
+       "array": [
+        {
+         "string": "true"
+        }
+       ]
+      }
+     ],
+     [
+      "MBCKStatusReporterEnabled.MBCKBackupEngine",
+      {
+       "array": [
+        {
+         "string": "true"
+        }
+       ]
+      }
+     ],
+     [
+      "MBCKStatusReporterEnabled.BackupConditions",
+      {
+       "array": [
+        {
+         "string": "true"
+        }
+       ]
+      }
+     ],
+     [
+      "RecurringBackupWarningPeriod",
+      {
+       "array": [
+        {
+         "string": "604800.0"
+        }
+       ]
+      }
+     ],
+     [
+      "DASIsDisabled",
+      {
+       "array": [
+        {
+         "string": "false"
+        }
+       ]
+      }
+     ],
+     [
+      "MBCKStatusReporterEnabled",
+      {
+       "array": [
+        {
+         "string": "true"
+        }
+       ]
+      }
+     ],
+     [
+      "LocalSnapshotsDisabled",
+      {
+       "array": [
+        {
+         "string": "false"
+        }
+       ]
+      }
+     ],
+     [
+      "ServerRestrictedDomains",
+      {
+       "array": [
+        {
+         "string": ""
+        }
+       ]
+      }
+     ],
+     [
+      "BackupPeriod",
+      {
+       "array": [
+        {
+         "string": "86400.0"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "SyncZoneFetched",
+   {
+    "bool": true
+   }
+  ]
+ ]
+}

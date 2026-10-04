@@ -1,0 +1,883 @@
+{
+ "dict": [
+  [
+   "com.apple.private.alloy.icloudpairing",
+   {
+    "dict": [
+     [
+      "mailto:thisisdfir@gmail.com",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2eee2a997e3b9"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "com.apple.madrid",
+   {
+    "dict": [
+     [
+      "tel:+19198887386",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f0230fafb55b"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "ValidExpiry",
+         {
+          "real": "40d89bfc93ea8000"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+19192895850",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2ef70949ef041"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+19195794674",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f023113514d3"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "ValidExpiry",
+         {
+          "real": "412274fff45e2c00"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+14693560062",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2eff835ae4da9"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "com.apple.private.alloy.phonecontinuity",
+   {
+    "dict": [
+     [
+      "mailto:thisisdfir@gmail.com",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2ef70bda83b82"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "com.apple.private.alloy.willow",
+   {
+    "dict": [
+     [
+      "mailto:thisisdfir@gmail.com",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04bf1ab4795"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "com.apple.private.alloy.facetime.audio",
+   {
+    "dict": []
+   }
+  ],
+  [
+   "CacheVersion",
+   {
+    "integer": "1"
+   }
+  ],
+  [
+   "com.apple.private.ac",
+   {
+    "dict": [
+     [
+      "tel:+19198887386",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f02366c5f9ad"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "com.apple.private.alloy.terminus",
+   {
+    "dict": [
+     [
+      "mailto:thisisdfir@gmail.com",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2eee2a57996d9"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "com.apple.private.alloy.tincan.audio",
+   {
+    "dict": [
+     [
+      "tel:+13233208923",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b57665d5b"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+19842353284",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+18334030436",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+18337750707",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+12074242620",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "mailto:joshua.hickman1@me.com",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+12533926868",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b57665d5b"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+12349008110",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+17633439463",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+14693560062",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b57665d5b"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+18334030432",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+19192853680",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+15396649632",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+13323731208",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b57665d5b"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+19195790479",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b57665d5b"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+17633439444",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b57665d5b"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+19142264034",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "mailto:thisisdfirtwo@gmail.com",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b57665d5b"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+19198887386",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+19192895850",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+13214065930",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+12708377530",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b55f1af10"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+13322369831",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f04b57665d5b"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "com.apple.private.alloy.nearby",
+   {
+    "dict": [
+     [
+      "mailto:joshuahickman957@gmail.com",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f007a441f499"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "mailto:thisisdfirtwo@gmail.com",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f0311cceba6b"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "com.apple.private.alloy.fmf",
+   {
+    "dict": [
+     [
+      "tel:+19193912507",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2eff867f3d2a6"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+19195790479",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2eff867f3d2a6"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+19198887386",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2eff867f3d2a6"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "com.apple.private.alloy.facetime.video",
+   {
+    "dict": []
+   }
+  ],
+  [
+   "com.apple.private.alloy.sms",
+   {
+    "dict": []
+   }
+  ],
+  [
+   "com.apple.private.alloy.maps.eta",
+   {
+    "dict": []
+   }
+  ],
+  [
+   "com.apple.private.alloy.bulletinboard",
+   {
+    "dict": [
+     [
+      "urn:ds:17193901029",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2eefc4749b917"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "com.apple.ess",
+   {
+    "dict": [
+     [
+      "tel:+19192895850",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2ef7094c275bc"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "2"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "tel:+19198887386",
+      {
+       "dict": [
+        [
+         "LookupDate",
+         {
+          "real": "41c2f02366b43c00"
+         }
+        ],
+        [
+         "IDStatus",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ ]
+}

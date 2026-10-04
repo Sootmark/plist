@@ -1,0 +1,204 @@
+{
+ "dict": [
+  [
+   "jpegphoto",
+   {
+    "array": [
+     {
+      "data": "0000"
+     }
+    ]
+   }
+  ],
+  [
+   "authentication_authority",
+   {
+    "array": [
+     {
+      "string": ";ShadowHash;HASHLIST:<SALTED-SHA512-PBKDF2>"
+     }
+    ]
+   }
+  ],
+  [
+   "passwordpolicyoptions",
+   {
+    "array": [
+     {
+      "data": "3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d38223f3e0a3c21444f435459504520706c697374205055424c494320222d2f2f4170706c652f2f44544420504c49535420312e302f2f454e222022687474703a2f2f7777772e6170706c652e636f6d2f445444732f50726f70657274794c6973742d312e302e647464223e0a3c706c6973742076657273696f6e3d22312e30223e0a3c646963743e0a093c6b65793e6661696c65644c6f67696e436f756e743c2f6b65793e0a093c696e74656765723e303c2f696e74656765723e0a093c6b65793e6661696c65644c6f67696e54696d657374616d703c2f6b65793e0a093c646174653e323030312d30312d30315430303a30303a30305a3c2f646174653e0a093c6b65793e6c6173744c6f67696e54696d657374616d703c2f6b65793e0a093c646174653e323030312d30312d30315430303a30303a30305a3c2f646174653e0a093c6b65793e70617373776f72644c61737453657454696d653c2f6b65793e0a093c646174653e323031332d31322d32385430343a33353a34375a3c2f646174653e0a3c2f646963743e0a3c2f706c6973743e0a"
+     }
+    ]
+   }
+  ],
+  [
+   "picture",
+   {
+    "array": [
+     {
+      "string": "/Library/User Pictures/Animals/Parrot.tif"
+     }
+    ]
+   }
+  ],
+  [
+   "_writers_picture",
+   {
+    "array": [
+     {
+      "string": "user"
+     }
+    ]
+   }
+  ],
+  [
+   "shell",
+   {
+    "array": [
+     {
+      "string": "/bin/bash"
+     }
+    ]
+   }
+  ],
+  [
+   "_writers_realname",
+   {
+    "array": [
+     {
+      "string": ""
+     }
+    ]
+   }
+  ],
+  [
+   "realname",
+   {
+    "array": [
+     {
+      "string": "Joaquin Moreno"
+     }
+    ]
+   }
+  ],
+  [
+   "name",
+   {
+    "array": [
+     {
+      "string": "user"
+     }
+    ]
+   }
+  ],
+  [
+   "_writers_UserCertificate",
+   {
+    "array": [
+     {
+      "string": "user"
+     }
+    ]
+   }
+  ],
+  [
+   "home",
+   {
+    "array": [
+     {
+      "string": "/Users/user"
+     }
+    ]
+   }
+  ],
+  [
+   "KerberosKeys",
+   {
+    "array": [
+     {
+      "data": "0000"
+     }
+    ]
+   }
+  ],
+  [
+   "ShadowHashData",
+   {
+    "array": [
+     {
+      "data": "62706c6973743030d101025f101453414c5445442d5348413531322d50424b444632d303040506070857656e74726f70795473616c745a697465726174696f6e734f1080a731dbb0e386b169af89fbb33c255ceafc083c6bc5194853f72f11c550c42e4625ef113b66f3f8b51fc3cd39106bad5067db3f7f1491758ffe0d819a1b0aba20646fd61345d98c0c9a411bfd1144dd4b3c40ec0f148b66d5b9ab014449f9b2e103928ef21db6e25b536a60ff17a84e985be3aa7ba3a4c16b34e0d1d2066ae1784f1020fa6cac1869263baa85cffc5e77a3d4ee164b75536cae26ce8547108f60e3f5541191c1080b2229313641c4e700000000000001010000000000000009000000000000000000000000000000ea"
+     }
+    ]
+   }
+  ],
+  [
+   "uid",
+   {
+    "array": [
+     {
+      "string": "501"
+     }
+    ]
+   }
+  ],
+  [
+   "_writers_passwd",
+   {
+    "array": [
+     {
+      "string": "user"
+     }
+    ]
+   }
+  ],
+  [
+   "generateduid",
+   {
+    "array": [
+     {
+      "string": "3244C431-15F4-48AE-B1DB-000000000000"
+     }
+    ]
+   }
+  ],
+  [
+   "gid",
+   {
+    "array": [
+     {
+      "string": "20"
+     }
+    ]
+   }
+  ],
+  [
+   "passwd",
+   {
+    "array": [
+     {
+      "string": "***"
+     }
+    ]
+   }
+  ],
+  [
+   "_writers_hint",
+   {
+    "array": [
+     {
+      "string": "user"
+     }
+    ]
+   }
+  ],
+  [
+   "_writers_jpegphoto",
+   {
+    "array": [
+     {
+      "string": "user"
+     }
+    ]
+   }
+  ]
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "dict": [
+  [
+   "MetaInfo",
+   {
+    "dict": [
+     [
+      "LastConnectAttempt",
+      {
+       "date": "2013-12-25T14:00:32.183618Z"
+      }
+     ],
+     [
+      "LastSuccessfulConnect",
+      {
+       "date": "2013-12-25T14:00:32.183618Z"
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "Version",
+   {
+    "integer": "100"
+   }
+  ],
+  [
+   "Accounts",
+   {
+    "dict": [
+     [
+      "email@domain.com",
+      {
+       "dict": [
+        [
+         "HashedPasswordRef",
+         {
+          "data": "0000"
+         }
+        ],
+        [
+         "CreationDate",
+         {
+          "date": "2013-06-24T20:46:42.000000Z"
+         }
+        ],
+        [
+         "ValidatedEmail",
+         {
+          "array": [
+           {
+            "string": "email@domain.com"
+           }
+          ]
+         }
+        ],
+        [
+         "Certificates",
+         {
+          "array": []
+         }
+        ],
+        [
+         "ValidationDate",
+         {
+          "date": "2013-12-25T14:00:32.000000Z"
+         }
+        ],
+        [
+         "ModificationDate",
+         {
+          "date": "2013-12-25T14:00:32.490012Z"
+         }
+        ],
+        [
+         "FirstName",
+         {
+          "string": "Joaquin"
+         }
+        ],
+        [
+         "AppleID",
+         {
+          "string": "email@domain.com"
+         }
+        ],
+        [
+         "encDsId",
+         {
+          "string": "41414141414141414141414141414141414141414141414"
+         }
+        ],
+        [
+         "AccountUUID",
+         {
+          "string": "893789CD-AAAA-AAAA-AAAA-AAAAAAAAAAAA"
+         }
+        ],
+        [
+         "LastSuccessfulConnect",
+         {
+          "date": "2013-12-25T14:00:32.000000Z"
+         }
+        ],
+        [
+         "LastName",
+         {
+          "string": "Moreno Garijo"
+         }
+        ],
+        [
+         "AllEmails",
+         {
+          "array": [
+           {
+            "dict": [
+             [
+              "Email",
+              {
+               "string": "email@domain.com"
+              }
+             ],
+             [
+              "VettingStatus",
+              {
+               "integer": "1"
+              }
+             ]
+            ]
+           }
+          ]
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "AuthCertificates",
+   {
+    "dict": []
+   }
+  ],
+  [
+   "AccessorVersions",
+   {
+    "array": [
+     {
+      "real": "40816ccccccccccd"
+     },
+     {
+      "real": "4082c33333333333"
+     }
+    ]
+   }
+  ],
+  [
+   "CreationDate",
+   {
+    "date": "2013-06-24T20:46:42.557488Z"
+   }
+  ]
+ ]
+}

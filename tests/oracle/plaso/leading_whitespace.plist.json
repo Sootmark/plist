@@ -1,0 +1,1129 @@
+{
+ "dict": [
+  [
+   "RememberedNetworks",
+   {
+    "array": [
+     {
+      "dict": [
+       [
+        "AutoLogin",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "CachedScanRecord",
+        {
+         "dict": [
+          [
+           "80211D_IE",
+           {
+            "dict": [
+             [
+              "IE_KEY_80211D_CHAN_INFO_ARRAY",
+              {
+               "array": [
+                {
+                 "dict": [
+                  [
+                   "IE_KEY_80211D_FIRST_CHANNEL",
+                   {
+                    "integer": "1"
+                   }
+                  ],
+                  [
+                   "IE_KEY_80211D_MAX_POWER",
+                   {
+                    "integer": "16"
+                   }
+                  ],
+                  [
+                   "IE_KEY_80211D_NUM_CHANNELS",
+                   {
+                    "integer": "11"
+                   }
+                  ]
+                 ]
+                }
+               ]
+              }
+             ],
+             [
+              "IE_KEY_80211D_COUNTRY_CODE",
+              {
+               "string": "US"
+              }
+             ]
+            ]
+           }
+          ],
+          [
+           "AGE",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "AP_MODE",
+           {
+            "integer": "2"
+           }
+          ],
+          [
+           "BEACON_INT",
+           {
+            "integer": "100"
+           }
+          ],
+          [
+           "BSSID",
+           {
+            "string": "0:1d:d2:b8:6e:40"
+           }
+          ],
+          [
+           "CAPABILITIES",
+           {
+            "integer": "3089"
+           }
+          ],
+          [
+           "CHANNEL",
+           {
+            "integer": "6"
+           }
+          ],
+          [
+           "CHANNEL_FLAGS",
+           {
+            "integer": "10"
+           }
+          ],
+          [
+           "HT_CAPS_IE",
+           {
+            "dict": [
+             [
+              "AMPDU_PARAMS",
+              {
+               "integer": "23"
+              }
+             ],
+             [
+              "ASEL_CAPS",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "CAPS",
+              {
+               "integer": "12"
+              }
+             ],
+             [
+              "EXT_CAPS",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "MCS_SET",
+              {
+               "data": "ffff0000000000000000000000000000"
+              }
+             ],
+             [
+              "TXBF_CAPS",
+              {
+               "integer": "0"
+              }
+             ]
+            ]
+           }
+          ],
+          [
+           "HT_IE",
+           {
+            "dict": [
+             [
+              "HT_BASIC_MCS_SET",
+              {
+               "data": "00000000000000000000000000000000"
+              }
+             ],
+             [
+              "HT_DUAL_BEACON",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_DUAL_CTS_PROT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_LSIG_TXOP_PROT_FULL",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_NON_GF_STAS_PRESENT",
+              {
+               "bool": true
+              }
+             ],
+             [
+              "HT_OBSS_NON_HT_STAS_PRESENT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_OP_MODE",
+              {
+               "integer": "1"
+              }
+             ],
+             [
+              "HT_PCO_ACTIVE",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_PCO_PHASE",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_PRIMARY_CHAN",
+              {
+               "integer": "6"
+              }
+             ],
+             [
+              "HT_PSMP_STAS_ONLY",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_RIFS_MODE",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_SECONDARY_BEACON",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_SECONDARY_CHAN_OFFSET",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "HT_SERVICE_INT",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "HT_STA_CHAN_WIDTH",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_TX_BURST_LIMIT",
+              {
+               "bool": false
+              }
+             ]
+            ]
+           }
+          ],
+          [
+           "IE",
+           {
+            "data": "00066575726f7061010882848b961224486c0301062a010432040c1830602d1a0c0017ffff0000000000000000000000000000000000000000003d16060005000000000000000000000000000000000000003e0100dd1a0050f20101000050f20202000050f2020050f20401000050f20230180100000fac020200000fac02000fac040100000fac020000dd180050f2020101800003a4000027a4000042435e0062322f000b05020060127a7f0101dd07000c43030000000706555320010b10dd870050f204104a0001101044000102103b000103104700102880288028801880a880001dd2b86e4010210005415252495310230006544738363247102400065254323836301042000831323334353637381054000800060050f204000110110012415252495320544738363220526f7574657210080002210c103c0001011049000600372a000120"
+           }
+          ],
+          [
+           "NOISE",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "RATES",
+           {
+            "array": [
+             {
+              "integer": "1"
+             },
+             {
+              "integer": "2"
+             },
+             {
+              "integer": "5"
+             },
+             {
+              "integer": "11"
+             },
+             {
+              "integer": "9"
+             },
+             {
+              "integer": "18"
+             },
+             {
+              "integer": "36"
+             },
+             {
+              "integer": "54"
+             },
+             {
+              "integer": "6"
+             },
+             {
+              "integer": "12"
+             },
+             {
+              "integer": "24"
+             },
+             {
+              "integer": "48"
+             }
+            ]
+           }
+          ],
+          [
+           "RSN_IE",
+           {
+            "dict": [
+             [
+              "IE_KEY_RSN_AUTHSELS",
+              {
+               "array": [
+                {
+                 "integer": "2"
+                }
+               ]
+              }
+             ],
+             [
+              "IE_KEY_RSN_MCIPHER",
+              {
+               "integer": "2"
+              }
+             ],
+             [
+              "IE_KEY_RSN_UCIPHERS",
+              {
+               "array": [
+                {
+                 "integer": "2"
+                },
+                {
+                 "integer": "4"
+                }
+               ]
+              }
+             ],
+             [
+              "IE_KEY_RSN_VERSION",
+              {
+               "integer": "1"
+              }
+             ]
+            ]
+           }
+          ],
+          [
+           "RSSI",
+           {
+            "integer": "-50"
+           }
+          ],
+          [
+           "SCAN_DIRECTED",
+           {
+            "bool": true
+           }
+          ],
+          [
+           "SSID",
+           {
+            "data": "6575726f7061"
+           }
+          ],
+          [
+           "SSID_STR",
+           {
+            "string": "europa"
+           }
+          ],
+          [
+           "WPA_IE",
+           {
+            "dict": [
+             [
+              "IE_KEY_WPA_AUTHSELS",
+              {
+               "array": [
+                {
+                 "integer": "2"
+                }
+               ]
+              }
+             ],
+             [
+              "IE_KEY_WPA_MCIPHER",
+              {
+               "integer": "2"
+              }
+             ],
+             [
+              "IE_KEY_WPA_UCIPHERS",
+              {
+               "array": [
+                {
+                 "integer": "2"
+                },
+                {
+                 "integer": "4"
+                }
+               ]
+              }
+             ],
+             [
+              "IE_KEY_WPA_VERSION",
+              {
+               "integer": "1"
+              }
+             ]
+            ]
+           }
+          ],
+          [
+           "WPS_PROB_RESP_IE",
+           {
+            "dict": [
+             [
+              "IE_KEY_WPS_CFG_METHODS",
+              {
+               "integer": "8460"
+              }
+             ],
+             [
+              "IE_KEY_WPS_DEV_NAME",
+              {
+               "string": "ARRIS TG862 Router"
+              }
+             ],
+             [
+              "IE_KEY_WPS_DEV_NAME_DATA",
+              {
+               "data": "415252495320544738363220526f75746572"
+              }
+             ],
+             [
+              "IE_KEY_WPS_MANUFACTURER",
+              {
+               "string": "ARRIS"
+              }
+             ],
+             [
+              "IE_KEY_WPS_MODEL_NAME",
+              {
+               "string": "TG862G"
+              }
+             ],
+             [
+              "IE_KEY_WPS_MODEL_NUM",
+              {
+               "string": "RT2860"
+              }
+             ],
+             [
+              "IE_KEY_WPS_PRIMARY_DEV_TYPE",
+              {
+               "dict": [
+                [
+                 "WPS_DEV_TYPE_CAT",
+                 {
+                  "integer": "6"
+                 }
+                ],
+                [
+                 "WPS_DEV_TYPE_OUI",
+                 {
+                  "data": "0050f204"
+                 }
+                ],
+                [
+                 "WPS_DEV_TYPE_SUB_CAT",
+                 {
+                  "integer": "1"
+                 }
+                ]
+               ]
+              }
+             ],
+             [
+              "IE_KEY_WPS_RESP_TYPE",
+              {
+               "integer": "3"
+              }
+             ],
+             [
+              "IE_KEY_WPS_RF_BANDS",
+              {
+               "integer": "1"
+              }
+             ],
+             [
+              "IE_KEY_WPS_SC_STATE",
+              {
+               "integer": "2"
+              }
+             ],
+             [
+              "IE_KEY_WPS_SERIAL_NUM",
+              {
+               "string": "12345678"
+              }
+             ],
+             [
+              "IE_KEY_WPS_UUID_E",
+              {
+               "data": "2880288028801880a880001dd2b86e40"
+              }
+             ]
+            ]
+           }
+          ]
+         ]
+        }
+       ],
+       [
+        "Captive",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "Closed",
+        {
+         "bool": true
+        }
+       ],
+       [
+        "Disabled",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "LastConnected",
+        {
+         "date": "2013-07-30T00:29:26.000000Z"
+        }
+       ],
+       [
+        "Passpoint",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "PossiblyHiddenNetwork",
+        {
+         "bool": true
+        }
+       ],
+       [
+        "SPRoaming",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "SSID",
+        {
+         "data": "6575726f7061"
+        }
+       ],
+       [
+        "SSIDString",
+        {
+         "string": "europa"
+        }
+       ],
+       [
+        "SecurityType",
+        {
+         "string": "WPA/WPA2 Personal"
+        }
+       ],
+       [
+        "SystemMode",
+        {
+         "bool": true
+        }
+       ],
+       [
+        "TemporarilyDisabled",
+        {
+         "bool": false
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "AutoLogin",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "CachedScanRecord",
+        {
+         "dict": [
+          [
+           "AGE",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "AP_MODE",
+           {
+            "integer": "2"
+           }
+          ],
+          [
+           "BEACON_INT",
+           {
+            "integer": "100"
+           }
+          ],
+          [
+           "BSSID",
+           {
+            "string": "0:24:6c:26:a4:1"
+           }
+          ],
+          [
+           "CAPABILITIES",
+           {
+            "integer": "1057"
+           }
+          ],
+          [
+           "CHANNEL",
+           {
+            "integer": "11"
+           }
+          ],
+          [
+           "CHANNEL_FLAGS",
+           {
+            "integer": "10"
+           }
+          ],
+          [
+           "HT_CAPS_IE",
+           {
+            "dict": [
+             [
+              "AMPDU_PARAMS",
+              {
+               "integer": "27"
+              }
+             ],
+             [
+              "ASEL_CAPS",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "CAPS",
+              {
+               "integer": "4556"
+              }
+             ],
+             [
+              "EXT_CAPS",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "MCS_SET",
+              {
+               "data": "ffff0000000000000000000000000000"
+              }
+             ],
+             [
+              "TXBF_CAPS",
+              {
+               "integer": "0"
+              }
+             ]
+            ]
+           }
+          ],
+          [
+           "HT_IE",
+           {
+            "dict": [
+             [
+              "HT_BASIC_MCS_SET",
+              {
+               "data": "ff000000000000000000000000000000"
+              }
+             ],
+             [
+              "HT_DUAL_BEACON",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_DUAL_CTS_PROT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_LSIG_TXOP_PROT_FULL",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_NON_GF_STAS_PRESENT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_OBSS_NON_HT_STAS_PRESENT",
+              {
+               "bool": true
+              }
+             ],
+             [
+              "HT_OP_MODE",
+              {
+               "integer": "1"
+              }
+             ],
+             [
+              "HT_PCO_ACTIVE",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_PCO_PHASE",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_PRIMARY_CHAN",
+              {
+               "integer": "11"
+              }
+             ],
+             [
+              "HT_PSMP_STAS_ONLY",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_RIFS_MODE",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_SECONDARY_BEACON",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_SECONDARY_CHAN_OFFSET",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "HT_SERVICE_INT",
+              {
+               "integer": "0"
+              }
+             ],
+             [
+              "HT_STA_CHAN_WIDTH",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "HT_TX_BURST_LIMIT",
+              {
+               "bool": true
+              }
+             ]
+            ]
+           }
+          ],
+          [
+           "IE",
+           {
+            "data": "000943616d7075734e6574010882840b0c1216182403010b2a010032043048606c2d1acc111bffff0000000000000000000000000000000000000000003d160b0019000000ff000000000000000000000000000000dd1e00904c33cc111bffff000000000000000000000000000000000000000000dd1a00904c340b0019000000ff000000000000000000000000000000dd180050f2020101800003a4000027a4000042435e0062322f00dd0a00037f04010000000000"
+           }
+          ],
+          [
+           "NOISE",
+           {
+            "integer": "0"
+           }
+          ],
+          [
+           "RATES",
+           {
+            "array": [
+             {
+              "integer": "1"
+             },
+             {
+              "integer": "2"
+             },
+             {
+              "integer": "5"
+             },
+             {
+              "integer": "6"
+             },
+             {
+              "integer": "9"
+             },
+             {
+              "integer": "11"
+             },
+             {
+              "integer": "12"
+             },
+             {
+              "integer": "18"
+             },
+             {
+              "integer": "24"
+             },
+             {
+              "integer": "36"
+             },
+             {
+              "integer": "48"
+             },
+             {
+              "integer": "54"
+             }
+            ]
+           }
+          ],
+          [
+           "RSSI",
+           {
+            "integer": "-41"
+           }
+          ],
+          [
+           "SCAN_DIRECTED",
+           {
+            "bool": true
+           }
+          ],
+          [
+           "SSID",
+           {
+            "data": "43616d7075734e6574"
+           }
+          ],
+          [
+           "SSID_STR",
+           {
+            "string": "CampusNet"
+           }
+          ]
+         ]
+        }
+       ],
+       [
+        "Captive",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "Closed",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "Disabled",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "LastConnected",
+        {
+         "date": "2013-12-12T19:03:04.000000Z"
+        }
+       ],
+       [
+        "Passpoint",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "PossiblyHiddenNetwork",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "SPRoaming",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "SSID",
+        {
+         "data": "43616d7075734e6574"
+        }
+       ],
+       [
+        "SSIDString",
+        {
+         "string": "CampusNet"
+        }
+       ],
+       [
+        "SecurityType",
+        {
+         "string": "Open"
+        }
+       ],
+       [
+        "SystemMode",
+        {
+         "bool": true
+        }
+       ],
+       [
+        "TemporarilyDisabled",
+        {
+         "bool": false
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "AutoLogin",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "Captive",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "Closed",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "Disabled",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "LastConnected",
+        {
+         "date": "2013-12-13T15:45:46.000000Z"
+        }
+       ],
+       [
+        "Passpoint",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "PossiblyHiddenNetwork",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "SPRoaming",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "SSID",
+        {
+         "data": "426f736520536f756e644c696e6b20416972204e6574776f726b"
+        }
+       ],
+       [
+        "SSIDString",
+        {
+         "string": "Bose SoundLink Air Network"
+        }
+       ],
+       [
+        "SecurityType",
+        {
+         "string": "Open"
+        }
+       ],
+       [
+        "SystemMode",
+        {
+         "bool": true
+        }
+       ],
+       [
+        "TemporarilyDisabled",
+        {
+         "bool": false
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "AutoLogin",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "Captive",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "Closed",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "Disabled",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "LastConnected",
+        {
+         "date": "2013-12-13T16:05:47.000000Z"
+        }
+       ],
+       [
+        "Passpoint",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "PossiblyHiddenNetwork",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "SPRoaming",
+        {
+         "bool": false
+        }
+       ],
+       [
+        "SSID",
+        {
+         "data": "426f696e676f20486f7473706f74"
+        }
+       ],
+       [
+        "SSIDString",
+        {
+         "string": "Boingo Hotspot"
+        }
+       ],
+       [
+        "SecurityType",
+        {
+         "string": "Open"
+        }
+       ],
+       [
+        "SystemMode",
+        {
+         "bool": true
+        }
+       ],
+       [
+        "TemporarilyDisabled",
+        {
+         "bool": false
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   "Version",
+   {
+    "integer": "14"
+   }
+  ]
+ ]
+}

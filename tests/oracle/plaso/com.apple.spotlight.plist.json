@@ -1,0 +1,236 @@
+{
+ "dict": [
+  [
+   "UserShortcuts",
+   {
+    "dict": [
+     [
+      "wifi",
+      {
+       "dict": [
+        [
+         "PATH",
+         {
+          "string": "/Users/moxilo/RHUL/Project/Parsers/wifi/wifi.py"
+         }
+        ],
+        [
+         "LAST_USED",
+         {
+          "date": "2013-12-29T15:33:32.005130Z"
+         }
+        ],
+        [
+         "DISPLAY_NAME",
+         {
+          "string": "wifi.py"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "map",
+      {
+       "dict": [
+        [
+         "PATH",
+         {
+          "string": "/Users/moxilo/Downloads/Campus-Map0907.pdf"
+         }
+        ],
+        [
+         "LAST_USED",
+         {
+          "date": "2013-09-23T11:54:22.090907Z"
+         }
+        ],
+        [
+         "DISPLAY_NAME",
+         {
+          "string": "Campus-Map0907.pdf"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "itu",
+      {
+       "dict": [
+        [
+         "PATH",
+         {
+          "string": "/Applications/iTunes.app"
+         }
+        ],
+        [
+         "LAST_USED",
+         {
+          "date": "2013-12-03T23:03:31.136094Z"
+         }
+        ],
+        [
+         "DISPLAY_NAME",
+         {
+          "string": "iTunes"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "m",
+      {
+       "dict": [
+        [
+         "PATH",
+         {
+          "string": "/Applications/FreeMind.app"
+         }
+        ],
+        [
+         "LAST_USED",
+         {
+          "date": "2013-08-16T23:39:41.196456Z"
+         }
+        ],
+        [
+         "DISPLAY_NAME",
+         {
+          "string": "FreeMind"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "text",
+      {
+       "dict": [
+        [
+         "PATH",
+         {
+          "string": "/Applications/TextWrangler.app"
+         }
+        ],
+        [
+         "LAST_USED",
+         {
+          "date": "2013-07-31T02:06:54.408299Z"
+         }
+        ],
+        [
+         "DISPLAY_NAME",
+         {
+          "string": "TextWrangler"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "libre",
+      {
+       "dict": [
+        [
+         "PATH",
+         {
+          "string": "/Applications/LibreOffice.app"
+         }
+        ],
+        [
+         "LAST_USED",
+         {
+          "date": "2013-12-13T16:24:28.185478Z"
+         }
+        ],
+        [
+         "DISPLAY_NAME",
+         {
+          "string": "LibreOffice.app"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "fi",
+      {
+       "dict": [
+        [
+         "PATH",
+         {
+          "string": "/Applications/Firefox.app"
+         }
+        ],
+        [
+         "LAST_USED",
+         {
+          "date": "2013-10-05T03:10:16.952360Z"
+         }
+        ],
+        [
+         "DISPLAY_NAME",
+         {
+          "string": "Firefox.app"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "ter",
+      {
+       "dict": [
+        [
+         "PATH",
+         {
+          "string": "/Applications/Utilities/Terminal.app"
+         }
+        ],
+        [
+         "LAST_USED",
+         {
+          "date": "2014-01-07T01:01:17.460443Z"
+         }
+        ],
+        [
+         "DISPLAY_NAME",
+         {
+          "string": "Terminal"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "gr",
+      {
+       "dict": [
+        [
+         "PATH",
+         {
+          "string": "/Applications/Utilities/Grab.app"
+         }
+        ],
+        [
+         "LAST_USED",
+         {
+          "date": "2013-12-23T18:21:41.900938Z"
+         }
+        ],
+        [
+         "DISPLAY_NAME",
+         {
+          "string": "Grab"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ ]
+}

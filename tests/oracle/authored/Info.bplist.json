@@ -1,0 +1,194 @@
+{
+ "dict": [
+  [
+   "CFBundleName",
+   {
+    "string": "Notes Exporter"
+   }
+  ],
+  [
+   "NSHumanReadableCopyright",
+   {
+    "string": "\u00a9 2026 Example Corp. Tous droits r\u00e9serv\u00e9s."
+   }
+  ],
+  [
+   "CFBundleDevelopmentRegion",
+   {
+    "string": "en"
+   }
+  ],
+  [
+   "CFBundleVersion",
+   {
+    "string": "241"
+   }
+  ],
+  [
+   "BuildMachineOSBuild",
+   {
+    "string": "25A354"
+   }
+  ],
+  [
+   "NSPrincipalClass",
+   {
+    "string": "NSApplication"
+   }
+  ],
+  [
+   "CFBundleDocumentTypes",
+   {
+    "array": [
+     {
+      "dict": [
+       [
+        "CFBundleTypeName",
+        {
+         "string": "Notes Export"
+        }
+       ],
+       [
+        "CFBundleTypeExtensions",
+        {
+         "array": [
+          {
+           "string": "notesexport"
+          }
+         ]
+        }
+       ],
+       [
+        "CFBundleTypeRole",
+        {
+         "string": "Editor"
+        }
+       ],
+       [
+        "LSHandlerRank",
+        {
+         "string": "Owner"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   "CFBundlePackageType",
+   {
+    "string": "APPL"
+   }
+  ],
+  [
+   "CFBundleSupportedPlatforms",
+   {
+    "array": [
+     {
+      "string": "MacOSX"
+     }
+    ]
+   }
+  ],
+  [
+   "NSAppleEventsUsageDescription",
+   {
+    "string": "Notes Exporter asks Notes for your notes so it can export them."
+   }
+  ],
+  [
+   "NSHighResolutionCapable",
+   {
+    "bool": true
+   }
+  ],
+  [
+   "CFBundleShortVersionString",
+   {
+    "string": "2.4.1"
+   }
+  ],
+  [
+   "SUFeedURL",
+   {
+    "string": "https://updates.example.com/notes-exporter/appcast.xml"
+   }
+  ],
+  [
+   "CFBundleInfoDictionaryVersion",
+   {
+    "string": "6.0"
+   }
+  ],
+  [
+   "CFBundleExecutable",
+   {
+    "string": "Notes Exporter"
+   }
+  ],
+  [
+   "SUScheduledCheckInterval",
+   {
+    "real": "40f5180000000000"
+   }
+  ],
+  [
+   "CFBundleURLTypes",
+   {
+    "array": [
+     {
+      "dict": [
+       [
+        "CFBundleURLName",
+        {
+         "string": "com.example.notes-exporter"
+        }
+       ],
+       [
+        "CFBundleURLSchemes",
+        {
+         "array": [
+          {
+           "string": "notesexport"
+          }
+         ]
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   "CFBundleIdentifier",
+   {
+    "string": "com.example.notes-exporter"
+   }
+  ],
+  [
+   "LSApplicationCategoryType",
+   {
+    "string": "public.app-category.productivity"
+   }
+  ],
+  [
+   "LSMinimumSystemVersion",
+   {
+    "string": "13.0"
+   }
+  ],
+  [
+   "CFBundleDisplayName",
+   {
+    "string": "Notes Exporter"
+   }
+  ],
+  [
+   "LSUIElement",
+   {
+    "bool": false
+   }
+  ]
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "dict": [
+  [
+   "PersonalitySlots",
+   {
+    "array": [
+     {
+      "string": "8901260971148676693"
+     }
+    ]
+   }
+  ],
+  [
+   "pw_ver",
+   {
+    "integer": "2"
+   }
+  ],
+  [
+   "unique-sim-label-store",
+   {
+    "dict": [
+     [
+      "E8B6082D-F391-46CB-9780-0AF46534D89F",
+      {
+       "dict": [
+        [
+         "text",
+         {
+          "string": ""
+         }
+        ],
+        [
+         "ts",
+         {
+          "integer": "1681224300"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "PersonalWallet",
+   {
+    "dict": [
+     [
+      "8901260971148676693",
+      {
+       "dict": [
+        [
+         "info",
+         {
+          "dict": [
+           [
+            "mdn",
+            {
+             "string": "+19195794674"
+            }
+           ],
+           [
+            "ts",
+            {
+             "integer": "1684326382"
+            }
+           ],
+           [
+            "eap_aka",
+            {
+             "bool": true
+            }
+           ],
+           [
+            "type",
+            {
+             "string": "sim"
+            }
+           ],
+           [
+            "cb_ver",
+            {
+             "string": "49.0"
+            }
+           ],
+           [
+            "label-id",
+            {
+             "string": "E8B6082D-F391-46CB-9780-0AF46534D89F"
+            }
+           ]
+          ]
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ ]
+}

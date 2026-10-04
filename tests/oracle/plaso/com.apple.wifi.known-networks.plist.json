@@ -1,0 +1,581 @@
+{
+ "dict": [
+  [
+   "wifi.network.ssid.Matt_Foley",
+   {
+    "dict": [
+     [
+      "Moving",
+      {
+       "bool": false
+      }
+     ],
+     [
+      "Hidden",
+      {
+       "bool": false
+      }
+     ],
+     [
+      "CaptiveProfile",
+      {
+       "dict": [
+        [
+         "CaptiveNetwork",
+         {
+          "bool": false
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "JoinedByUserAt",
+      {
+       "date": "2023-04-15T13:53:47.472469Z"
+      }
+     ],
+     [
+      "SSID",
+      {
+       "data": "4d6174745f466f6c6579"
+      }
+     ],
+     [
+      "AddedAt",
+      {
+       "date": "2023-04-15T13:53:47.476017Z"
+      }
+     ],
+     [
+      "__OSSpecific__",
+      {
+       "dict": [
+        [
+         "networkUsage",
+         {
+          "real": "41414359c4dda700"
+         }
+        ],
+        [
+         "knownBSSUpdatedDate",
+         {
+          "date": "2023-05-16T18:34:29.512616Z"
+         }
+        ],
+        [
+         "BSSID",
+         {
+          "string": "6a:22:32:98:f4:df"
+         }
+        ],
+        [
+         "CHANNEL_FLAGS",
+         {
+          "integer": "1040"
+         }
+        ],
+        [
+         "BEACON_PROBE_INFO_PER_BSSID_LIST",
+         {
+          "array": [
+           {
+            "dict": [
+             [
+              "BSSID",
+              {
+               "string": "76:a7:41:e7:7c:9d"
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_SENT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_BEACON_ONLY_SENT",
+              {
+               "bool": true
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "BSSID",
+              {
+               "string": "6a:22:32:98:f4:df"
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_SENT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_BEACON_ONLY_SENT",
+              {
+               "bool": true
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "BSSID",
+              {
+               "string": "7a:a7:41:e7:7c:66"
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_SENT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_BEACON_ONLY_SENT",
+              {
+               "bool": true
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "BSSID",
+              {
+               "string": "6a:22:32:1d:3e:a3"
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_SENT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_BEACON_ONLY_SENT",
+              {
+               "bool": true
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "BSSID",
+              {
+               "string": "82:45:58:f7:b3:31"
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_SENT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_BEACON_ONLY_SENT",
+              {
+               "bool": true
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "BSSID",
+              {
+               "string": "7a:a7:41:e7:7c:9e"
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_SENT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_BEACON_ONLY_SENT",
+              {
+               "bool": true
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "BSSID",
+              {
+               "string": "66:22:32:98:f4:de"
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_SENT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_BEACON_ONLY_SENT",
+              {
+               "bool": true
+              }
+             ]
+            ]
+           },
+           {
+            "dict": [
+             [
+              "BSSID",
+              {
+               "string": "7e:45:58:f7:b3:30"
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_SENT",
+              {
+               "bool": false
+              }
+             ],
+             [
+              "OTA_SYSTEM_INFO_BEACON_ONLY_SENT",
+              {
+               "bool": true
+              }
+             ]
+            ]
+           }
+          ]
+         }
+        ],
+        [
+         "NetworkOfInterestHomeState",
+         {
+          "integer": "1"
+         }
+        ],
+        [
+         "CHANNEL",
+         {
+          "integer": "161"
+         }
+        ],
+        [
+         "prevJoined",
+         {
+          "date": "2023-05-20T15:52:55.725711Z"
+         }
+        ],
+        [
+         "WiFiNetworkPasswordModificationDate",
+         {
+          "date": "2023-04-15T13:53:47.510008Z"
+         }
+        ],
+        [
+         "AP_MODE",
+         {
+          "integer": "2"
+         }
+        ],
+        [
+         "DiagnosticsBssEnv",
+         {
+          "integer": "4"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "JoinedBySystemAt",
+      {
+       "date": "2023-05-20T19:55:03.073186Z"
+      }
+     ],
+     [
+      "SupportedSecurityTypes",
+      {
+       "string": "WPA2 Personal"
+      }
+     ],
+     [
+      "BSSList",
+      {
+       "array": [
+        {
+         "dict": [
+          [
+           "ChannelFlags",
+           {
+            "integer": "10"
+           }
+          ],
+          [
+           "BSSID",
+           {
+            "string": "76:a7:41:e7:7c:9d"
+           }
+          ],
+          [
+           "Channel",
+           {
+            "integer": "1"
+           }
+          ],
+          [
+           "LastAssociatedAt",
+           {
+            "date": "2023-05-14T01:15:45.013600Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "ChannelFlags",
+           {
+            "integer": "1040"
+           }
+          ],
+          [
+           "BSSID",
+           {
+            "string": "7a:a7:41:e7:7c:9e"
+           }
+          ],
+          [
+           "Channel",
+           {
+            "integer": "36"
+           }
+          ],
+          [
+           "LastAssociatedAt",
+           {
+            "date": "2023-05-19T23:43:37.162773Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "ChannelFlags",
+           {
+            "integer": "1040"
+           }
+          ],
+          [
+           "BSSID",
+           {
+            "string": "7a:a7:41:e7:7c:66"
+           }
+          ],
+          [
+           "Channel",
+           {
+            "integer": "48"
+           }
+          ],
+          [
+           "LastAssociatedAt",
+           {
+            "date": "2023-05-20T16:58:52.133662Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "ChannelFlags",
+           {
+            "integer": "10"
+           }
+          ],
+          [
+           "BSSID",
+           {
+            "string": "7e:45:58:f7:b3:30"
+           }
+          ],
+          [
+           "Channel",
+           {
+            "integer": "11"
+           }
+          ],
+          [
+           "LastAssociatedAt",
+           {
+            "date": "2023-05-11T20:05:42.388662Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "ChannelFlags",
+           {
+            "integer": "1040"
+           }
+          ],
+          [
+           "BSSID",
+           {
+            "string": "82:45:58:f7:b3:31"
+           }
+          ],
+          [
+           "Channel",
+           {
+            "integer": "153"
+           }
+          ],
+          [
+           "LastAssociatedAt",
+           {
+            "date": "2023-05-20T00:28:31.078623Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "ChannelFlags",
+           {
+            "integer": "10"
+           }
+          ],
+          [
+           "BSSID",
+           {
+            "string": "66:22:32:98:f4:de"
+           }
+          ],
+          [
+           "Channel",
+           {
+            "integer": "1"
+           }
+          ],
+          [
+           "LastAssociatedAt",
+           {
+            "date": "2023-05-20T15:52:55.725656Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "ChannelFlags",
+           {
+            "integer": "10"
+           }
+          ],
+          [
+           "BSSID",
+           {
+            "string": "66:22:32:1d:3e:a2"
+           }
+          ],
+          [
+           "Channel",
+           {
+            "integer": "11"
+           }
+          ],
+          [
+           "LastAssociatedAt",
+           {
+            "date": "2023-05-19T21:40:31.462052Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "ChannelFlags",
+           {
+            "integer": "1040"
+           }
+          ],
+          [
+           "BSSID",
+           {
+            "string": "6a:22:32:98:f4:df"
+           }
+          ],
+          [
+           "Channel",
+           {
+            "integer": "161"
+           }
+          ],
+          [
+           "LastAssociatedAt",
+           {
+            "date": "2023-05-20T19:55:03.073125Z"
+           }
+          ]
+         ]
+        },
+        {
+         "dict": [
+          [
+           "ChannelFlags",
+           {
+            "integer": "1040"
+           }
+          ],
+          [
+           "BSSID",
+           {
+            "string": "6a:22:32:1d:3e:a3"
+           }
+          ],
+          [
+           "Channel",
+           {
+            "integer": "44"
+           }
+          ],
+          [
+           "LastAssociatedAt",
+           {
+            "date": "2023-05-20T12:02:35.933806Z"
+           }
+          ]
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      "UpdatedAt",
+      {
+       "date": "2023-05-20T19:55:03.077004Z"
+      }
+     ]
+    ]
+   }
+  ]
+ ]
+}

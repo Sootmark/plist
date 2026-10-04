@@ -1,0 +1,52 @@
+{
+ "dict": [
+  [
+   "AutoLaunchedApplicationDictionary",
+   {
+    "array": [
+     {
+      "dict": [
+       [
+        "Hide",
+        {
+         "bool": true
+        }
+       ],
+       [
+        "Path",
+        {
+         "string": "/Applications/SafeConnect.app"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   "Vendor",
+   {
+    "dict": [
+     [
+      "ID",
+      {
+       "string": "SafeConnect"
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "LoginHook",
+   {
+    "string": "/Users/matthew/login.sh"
+   }
+  ],
+  [
+   "LogoutHook",
+   {
+    "string": "/Users/matthew/logout.sh"
+   }
+  ]
+ ]
+}

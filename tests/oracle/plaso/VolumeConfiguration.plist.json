@@ -1,0 +1,152 @@
+{
+ "dict": [
+  [
+   "ConfigurationCreationDate",
+   {
+    "date": "2013-05-27T12:23:50.000000Z"
+   }
+  ],
+  [
+   "ConfigurationCreationVersion",
+   {
+    "string": "Version 10.8 (Build 12A269)"
+   }
+  ],
+  [
+   "ConfigurationModificationDate",
+   {
+    "date": "2013-06-25T05:54:43.000000Z"
+   }
+  ],
+  [
+   "ConfigurationModificationVersion",
+   {
+    "string": "Version 10.8.4 (Build 12E3067)"
+   }
+  ],
+  [
+   "Exclusions",
+   {
+    "array": []
+   }
+  ],
+  [
+   "Options",
+   {
+    "dict": [
+     [
+      "ConfigurationType",
+      {
+       "string": "Default"
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "Stores",
+   {
+    "dict": [
+     [
+      "4D4BFEB5-7FE6-4033-AAAA-AAAABBBBCCCCDDDD",
+      {
+       "dict": [
+        [
+         "CreationDate",
+         {
+          "date": "2013-06-25T05:54:43.000000Z"
+         }
+        ],
+        [
+         "CreationVersion",
+         {
+          "string": "Version 10.8.4 (Build 12E3067)"
+         }
+        ],
+        [
+         "IndexVersion",
+         {
+          "integer": "95"
+         }
+        ],
+        [
+         "PartialPath",
+         {
+          "string": "/.MobileBackups"
+         }
+        ],
+        [
+         "PolicyDate",
+         {
+          "date": "2013-06-25T05:54:43.000000Z"
+         }
+        ],
+        [
+         "PolicyLevel",
+         {
+          "string": "kMDConfigSearchLevelReadWrite"
+         }
+        ],
+        [
+         "PolicyVersion",
+         {
+          "string": "Version 10.8.4 (Build 12E3067)"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "AA82EDD7-613C-45E6-82EF-AAAABBBBCCCCDDDD",
+      {
+       "dict": [
+        [
+         "CreationDate",
+         {
+          "date": "2013-05-27T12:27:36.000000Z"
+         }
+        ],
+        [
+         "CreationVersion",
+         {
+          "string": "Version 10.8 (Build 12A269)"
+         }
+        ],
+        [
+         "IndexVersion",
+         {
+          "integer": "95"
+         }
+        ],
+        [
+         "PartialPath",
+         {
+          "string": "/"
+         }
+        ],
+        [
+         "PolicyDate",
+         {
+          "date": "2013-05-27T12:27:37.000000Z"
+         }
+        ],
+        [
+         "PolicyLevel",
+         {
+          "string": "kMDConfigSearchLevelReadWrite"
+         }
+        ],
+        [
+         "PolicyVersion",
+         {
+          "string": "Version 10.8 (Build 12A269)"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ ]
+}

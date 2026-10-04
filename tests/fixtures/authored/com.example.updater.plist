@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- A per-user launch agent of the kind persistence hunts look for:
+     a program in a hidden directory, started at login, kept alive and
+     re-run every hour. Written for these tests; the paths are invented. -->
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.example.updater</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Users/Shared/.updater/updater</string>
+		<string>--check</string>
+		<string>--url=https://updates.example.com/feed?channel=beta&amp;arch=arm64</string>
+		<string><![CDATA[--banner=<b>Update ready</b> & restart]]></string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>KeepAlive</key>
+	<dict>
+		<key>SuccessfulExit</key>
+		<false/>
+		<key>NetworkState</key>
+		<true/>
+	</dict>
+	<key>StartInterval</key>
+	<integer>3600</integer>
+	<key>ThrottleInterval</key>
+	<integer>0x3C</integer>
+	<key>Nice</key>
+	<integer>-5</integer>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>DYLD_INSERT_LIBRARIES</key>
+		<string>/Users/Shared/.updater/libhook.dylib</string>
+		<key>LANG</key>
+		<string>fr_FR.UTF-8</string>
+	</dict>
+	<key>StandardOutPath</key>
+	<string>/tmp/.updater.log</string>
+	<key>StandardErrorPath</key>
+	<string>/dev/null</string>
+	<key>LimitLoadToSessionType</key>
+	<array>
+		<string>Aqua</string>
+		<string>Background</string>
+	</array>
+	<key>LastModified</key>
+	<date>2026-09-30T22:15:07Z</date>
+	<key>SignatureHint</key>
+	<data>
+	U29vdG1hcmsgdGVzdCBmaXh0dXJlLCBub3QgYSBz
+	aWduYXR1cmUu
+	</data>
+	<key>Description</key>
+	<string>Mise &#224; jour automatique &#x2014; &quot;beta&quot; &lt;channel&gt; it&apos;s</string>
+</dict>
+</plist>

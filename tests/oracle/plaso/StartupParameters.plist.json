@@ -1,0 +1,39 @@
+{
+ "dict": [
+  [
+   "Description",
+   {
+    "string": "My Awesome Service"
+   }
+  ],
+  [
+   "OrderPreference",
+   {
+    "string": "None"
+   }
+  ],
+  [
+   "Provides",
+   {
+    "array": [
+     {
+      "string": "The best service ever"
+     }
+    ]
+   }
+  ],
+  [
+   "Uses",
+   {
+    "array": [
+     {
+      "string": "Network"
+     },
+     {
+      "string": "SystemLog"
+     }
+    ]
+   }
+  ]
+ ]
+}

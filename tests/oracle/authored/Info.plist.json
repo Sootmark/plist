@@ -1,0 +1,194 @@
+{
+ "dict": [
+  [
+   "BuildMachineOSBuild",
+   {
+    "string": "25A354"
+   }
+  ],
+  [
+   "CFBundleDevelopmentRegion",
+   {
+    "string": "en"
+   }
+  ],
+  [
+   "CFBundleDisplayName",
+   {
+    "string": "Notes Exporter"
+   }
+  ],
+  [
+   "CFBundleDocumentTypes",
+   {
+    "array": [
+     {
+      "dict": [
+       [
+        "CFBundleTypeExtensions",
+        {
+         "array": [
+          {
+           "string": "notesexport"
+          }
+         ]
+        }
+       ],
+       [
+        "CFBundleTypeName",
+        {
+         "string": "Notes Export"
+        }
+       ],
+       [
+        "CFBundleTypeRole",
+        {
+         "string": "Editor"
+        }
+       ],
+       [
+        "LSHandlerRank",
+        {
+         "string": "Owner"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   "CFBundleExecutable",
+   {
+    "string": "Notes Exporter"
+   }
+  ],
+  [
+   "CFBundleIdentifier",
+   {
+    "string": "com.example.notes-exporter"
+   }
+  ],
+  [
+   "CFBundleInfoDictionaryVersion",
+   {
+    "string": "6.0"
+   }
+  ],
+  [
+   "CFBundleName",
+   {
+    "string": "Notes Exporter"
+   }
+  ],
+  [
+   "CFBundlePackageType",
+   {
+    "string": "APPL"
+   }
+  ],
+  [
+   "CFBundleShortVersionString",
+   {
+    "string": "2.4.1"
+   }
+  ],
+  [
+   "CFBundleSupportedPlatforms",
+   {
+    "array": [
+     {
+      "string": "MacOSX"
+     }
+    ]
+   }
+  ],
+  [
+   "CFBundleURLTypes",
+   {
+    "array": [
+     {
+      "dict": [
+       [
+        "CFBundleURLName",
+        {
+         "string": "com.example.notes-exporter"
+        }
+       ],
+       [
+        "CFBundleURLSchemes",
+        {
+         "array": [
+          {
+           "string": "notesexport"
+          }
+         ]
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   "CFBundleVersion",
+   {
+    "string": "241"
+   }
+  ],
+  [
+   "LSApplicationCategoryType",
+   {
+    "string": "public.app-category.productivity"
+   }
+  ],
+  [
+   "LSMinimumSystemVersion",
+   {
+    "string": "13.0"
+   }
+  ],
+  [
+   "LSUIElement",
+   {
+    "bool": false
+   }
+  ],
+  [
+   "NSAppleEventsUsageDescription",
+   {
+    "string": "Notes Exporter asks Notes for your notes so it can export them."
+   }
+  ],
+  [
+   "NSHighResolutionCapable",
+   {
+    "bool": true
+   }
+  ],
+  [
+   "NSHumanReadableCopyright",
+   {
+    "string": "\u00a9 2026 Example Corp. Tous droits r\u00e9serv\u00e9s."
+   }
+  ],
+  [
+   "NSPrincipalClass",
+   {
+    "string": "NSApplication"
+   }
+  ],
+  [
+   "SUFeedURL",
+   {
+    "string": "https://updates.example.com/notes-exporter/appcast.xml"
+   }
+  ],
+  [
+   "SUScheduledCheckInterval",
+   {
+    "real": "40f5180000000000"
+   }
+  ]
+ ]
+}

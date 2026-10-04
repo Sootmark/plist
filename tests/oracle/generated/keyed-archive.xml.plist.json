@@ -1,0 +1,508 @@
+{
+ "dict": [
+  [
+   "$archiver",
+   {
+    "string": "NSKeyedArchiver"
+   }
+  ],
+  [
+   "$objects",
+   {
+    "array": [
+     {
+      "string": "$null"
+     },
+     {
+      "dict": [
+       [
+        "$class",
+        {
+         "uid": 22
+        }
+       ],
+       [
+        "NS.keys",
+        {
+         "array": [
+          {
+           "uid": 2
+          },
+          {
+           "uid": 3
+          },
+          {
+           "uid": 4
+          },
+          {
+           "uid": 5
+          },
+          {
+           "uid": 6
+          },
+          {
+           "uid": 7
+          },
+          {
+           "uid": 8
+          },
+          {
+           "uid": 9
+          },
+          {
+           "uid": 10
+          },
+          {
+           "uid": 11
+          },
+          {
+           "uid": 12
+          }
+         ]
+        }
+       ],
+       [
+        "NS.objects",
+        {
+         "array": [
+          {
+           "uid": 13
+          },
+          {
+           "uid": 16
+          },
+          {
+           "uid": 23
+          },
+          {
+           "uid": 24
+          },
+          {
+           "uid": 25
+          },
+          {
+           "uid": 26
+          },
+          {
+           "uid": 27
+          },
+          {
+           "uid": 29
+          },
+          {
+           "uid": 30
+          },
+          {
+           "uid": 32
+          },
+          {
+           "uid": 36
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "string": "unique"
+     },
+     {
+      "string": "nested"
+     },
+     {
+      "string": "blob"
+     },
+     {
+      "string": "title"
+     },
+     {
+      "string": "count"
+     },
+     {
+      "string": "flag"
+     },
+     {
+      "string": "created"
+     },
+     {
+      "string": "ratio"
+     },
+     {
+      "string": "empty"
+     },
+     {
+      "string": "tags"
+     },
+     {
+      "string": "url"
+     },
+     {
+      "dict": [
+       [
+        "$class",
+        {
+         "uid": 15
+        }
+       ],
+       [
+        "NS.objects",
+        {
+         "array": [
+          {
+           "uid": 14
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "string": "x"
+     },
+     {
+      "dict": [
+       [
+        "$classes",
+        {
+         "array": [
+          {
+           "string": "NSSet"
+          },
+          {
+           "string": "NSObject"
+          }
+         ]
+        }
+       ],
+       [
+        "$classname",
+        {
+         "string": "NSSet"
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "$class",
+        {
+         "uid": 22
+        }
+       ],
+       [
+        "NS.keys",
+        {
+         "array": [
+          {
+           "uid": 17
+          },
+          {
+           "uid": 18
+          }
+         ]
+        }
+       ],
+       [
+        "NS.objects",
+        {
+         "array": [
+          {
+           "uid": 19
+          },
+          {
+           "uid": 20
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "string": "unicode"
+     },
+     {
+      "string": "again"
+     },
+     {
+      "string": "caf\u00e9 \ud83d\ude00"
+     },
+     {
+      "dict": [
+       [
+        "$class",
+        {
+         "uid": 21
+        }
+       ],
+       [
+        "NS.string",
+        {
+         "string": "shared by two parents"
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "$classes",
+        {
+         "array": [
+          {
+           "string": "NSMutableString"
+          },
+          {
+           "string": "NSString"
+          },
+          {
+           "string": "NSObject"
+          }
+         ]
+        }
+       ],
+       [
+        "$classname",
+        {
+         "string": "NSMutableString"
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "$classes",
+        {
+         "array": [
+          {
+           "string": "NSDictionary"
+          },
+          {
+           "string": "NSObject"
+          }
+         ]
+        }
+       ],
+       [
+        "$classname",
+        {
+         "string": "NSDictionary"
+        }
+       ]
+      ]
+     },
+     {
+      "data": "deadbeef"
+     },
+     {
+      "string": "Quarterly notes"
+     },
+     {
+      "integer": "42"
+     },
+     {
+      "bool": true
+     },
+     {
+      "dict": [
+       [
+        "$class",
+        {
+         "uid": 28
+        }
+       ],
+       [
+        "NS.time",
+        {
+         "real": "41c4dc9380400000"
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "$classes",
+        {
+         "array": [
+          {
+           "string": "NSDate"
+          },
+          {
+           "string": "NSObject"
+          }
+         ]
+        }
+       ],
+       [
+        "$classname",
+        {
+         "string": "NSDate"
+        }
+       ]
+      ]
+     },
+     {
+      "real": "3fd0000000000000"
+     },
+     {
+      "dict": [
+       [
+        "$class",
+        {
+         "uid": 31
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "$classes",
+        {
+         "array": [
+          {
+           "string": "NSNull"
+          },
+          {
+           "string": "NSObject"
+          }
+         ]
+        }
+       ],
+       [
+        "$classname",
+        {
+         "string": "NSNull"
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "$class",
+        {
+         "uid": 35
+        }
+       ],
+       [
+        "NS.objects",
+        {
+         "array": [
+          {
+           "uid": 33
+          },
+          {
+           "uid": 34
+          },
+          {
+           "uid": 20
+          }
+         ]
+        }
+       ]
+      ]
+     },
+     {
+      "string": "a"
+     },
+     {
+      "string": "b"
+     },
+     {
+      "dict": [
+       [
+        "$classes",
+        {
+         "array": [
+          {
+           "string": "NSArray"
+          },
+          {
+           "string": "NSObject"
+          }
+         ]
+        }
+       ],
+       [
+        "$classname",
+        {
+         "string": "NSArray"
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "$class",
+        {
+         "uid": 38
+        }
+       ],
+       [
+        "NS.base",
+        {
+         "uid": 0
+        }
+       ],
+       [
+        "NS.relative",
+        {
+         "uid": 37
+        }
+       ]
+      ]
+     },
+     {
+      "string": "https://example.com/report?id=7"
+     },
+     {
+      "dict": [
+       [
+        "$classes",
+        {
+         "array": [
+          {
+           "string": "NSURL"
+          },
+          {
+           "string": "NSObject"
+          }
+         ]
+        }
+       ],
+       [
+        "$classname",
+        {
+         "string": "NSURL"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   "$top",
+   {
+    "dict": [
+     [
+      "root",
+      {
+       "uid": 1
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "$version",
+   {
+    "integer": "100000"
+   }
+  ]
+ ]
+}

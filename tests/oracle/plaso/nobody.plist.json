@@ -1,0 +1,94 @@
+{
+ "dict": [
+  [
+   "passwd",
+   {
+    "array": [
+     {
+      "string": "*"
+     }
+    ]
+   }
+  ],
+  [
+   "uid",
+   {
+    "array": [
+     {
+      "string": "-2"
+     }
+    ]
+   }
+  ],
+  [
+   "shell",
+   {
+    "array": [
+     {
+      "string": "/usr/bin/false"
+     }
+    ]
+   }
+  ],
+  [
+   "home",
+   {
+    "array": [
+     {
+      "string": "/var/empty"
+     }
+    ]
+   }
+  ],
+  [
+   "realname",
+   {
+    "array": [
+     {
+      "string": "Unprivileged User"
+     }
+    ]
+   }
+  ],
+  [
+   "generateduid",
+   {
+    "array": [
+     {
+      "string": "FFFFEEEE-DDDD-CCCC-BBBB-AAAAFFFFFFFE"
+     }
+    ]
+   }
+  ],
+  [
+   "smb_rid",
+   {
+    "array": [
+     {
+      "string": "501"
+     }
+    ]
+   }
+  ],
+  [
+   "gid",
+   {
+    "array": [
+     {
+      "string": "-2"
+     }
+    ]
+   }
+  ],
+  [
+   "name",
+   {
+    "array": [
+     {
+      "string": "nobody"
+     }
+    ]
+   }
+  ]
+ ]
+}

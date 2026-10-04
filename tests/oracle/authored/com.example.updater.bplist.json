@@ -1,0 +1,134 @@
+{
+ "dict": [
+  [
+   "LastModified",
+   {
+    "date": "2026-09-30T22:15:07.000000Z"
+   }
+  ],
+  [
+   "EnvironmentVariables",
+   {
+    "dict": [
+     [
+      "LANG",
+      {
+       "string": "fr_FR.UTF-8"
+      }
+     ],
+     [
+      "DYLD_INSERT_LIBRARIES",
+      {
+       "string": "/Users/Shared/.updater/libhook.dylib"
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "LimitLoadToSessionType",
+   {
+    "array": [
+     {
+      "string": "Aqua"
+     },
+     {
+      "string": "Background"
+     }
+    ]
+   }
+  ],
+  [
+   "Description",
+   {
+    "string": "Mise \u00e0 jour automatique \u2014 \"beta\" <channel> it's"
+   }
+  ],
+  [
+   "KeepAlive",
+   {
+    "dict": [
+     [
+      "SuccessfulExit",
+      {
+       "bool": false
+      }
+     ],
+     [
+      "NetworkState",
+      {
+       "bool": true
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "Nice",
+   {
+    "integer": "-5"
+   }
+  ],
+  [
+   "StartInterval",
+   {
+    "integer": "3600"
+   }
+  ],
+  [
+   "StandardOutPath",
+   {
+    "string": "/tmp/.updater.log"
+   }
+  ],
+  [
+   "Label",
+   {
+    "string": "com.example.updater"
+   }
+  ],
+  [
+   "StandardErrorPath",
+   {
+    "string": "/dev/null"
+   }
+  ],
+  [
+   "ProgramArguments",
+   {
+    "array": [
+     {
+      "string": "/Users/Shared/.updater/updater"
+     },
+     {
+      "string": "--check"
+     },
+     {
+      "string": "--url=https://updates.example.com/feed?channel=beta&arch=arm64"
+     },
+     {
+      "string": "--banner=<b>Update ready</b> & restart"
+     }
+    ]
+   }
+  ],
+  [
+   "RunAtLoad",
+   {
+    "bool": true
+   }
+  ],
+  [
+   "ThrottleInterval",
+   {
+    "integer": "60"
+   }
+  ],
+  [
+   "SignatureHint",
+   {
+    "data": "536f6f746d61726b207465737420666978747572652c206e6f742061207369676e61747572652e"
+   }
+  ]
+ ]
+}

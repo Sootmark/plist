@@ -1,0 +1,20 @@
+{
+ "dict": [
+  [
+   "Label",
+   {
+    "string": "foo"
+   }
+  ],
+  [
+   "ProgramArguments",
+   {
+    "array": [
+     {
+      "string": "/usr/bin/true"
+     }
+    ]
+   }
+  ]
+ ]
+}

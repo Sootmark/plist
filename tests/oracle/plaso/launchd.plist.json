@@ -1,0 +1,217 @@
+{
+ "dict": [
+  [
+   "Label",
+   {
+    "string": "com.foobar.test"
+   }
+  ],
+  [
+   "Program",
+   {
+    "string": "/Test"
+   }
+  ],
+  [
+   "ProgramArguments",
+   {
+    "array": [
+     {
+      "string": "--flag"
+     },
+     {
+      "string": "arg1"
+     }
+    ]
+   }
+  ],
+  [
+   "StandardInPath",
+   {
+    "string": "/dev/null/in"
+   }
+  ],
+  [
+   "StandardOutPath",
+   {
+    "string": "/dev/null/out"
+   }
+  ],
+  [
+   "StandardErrorPath",
+   {
+    "string": "/dev/null/error"
+   }
+  ],
+  [
+   "WorkingDirectory",
+   {
+    "string": "/dev/null"
+   }
+  ],
+  [
+   "RunAtLoad",
+   {
+    "bool": true
+   }
+  ],
+  [
+   "StartInterval",
+   {
+    "integer": "3600"
+   }
+  ],
+  [
+   "StartCalendarInterval",
+   {
+    "array": [
+     {
+      "dict": [
+       [
+        "Month",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "Hour",
+        {
+         "integer": "12"
+        }
+       ],
+       [
+        "Minute",
+        {
+         "integer": "0"
+        }
+       ]
+      ]
+     },
+     {
+      "dict": [
+       [
+        "Month",
+        {
+         "integer": "1"
+        }
+       ],
+       [
+        "Hour",
+        {
+         "integer": "13"
+        }
+       ],
+       [
+        "Minute",
+        {
+         "integer": "0"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   "StartOnMount",
+   {
+    "bool": true
+   }
+  ],
+  [
+   "WatchPaths",
+   {
+    "array": [
+     {
+      "string": "/tmp/dir"
+     },
+     {
+      "string": "/tmp/exist"
+     }
+    ]
+   }
+  ],
+  [
+   "QueueDirectories",
+   {
+    "array": [
+     {
+      "string": "/tmp/queue"
+     }
+    ]
+   }
+  ],
+  [
+   "KeepAlive",
+   {
+    "bool": true
+   }
+  ],
+  [
+   "UserName",
+   {
+    "string": "nobody"
+   }
+  ],
+  [
+   "GroupName",
+   {
+    "string": "nobody"
+   }
+  ],
+  [
+   "InitGroups",
+   {
+    "bool": true
+   }
+  ],
+  [
+   "Umask",
+   {
+    "integer": "23"
+   }
+  ],
+  [
+   "RootDirectory",
+   {
+    "string": "/tmp/chroot"
+   }
+  ],
+  [
+   "AbandonProcessGroup",
+   {
+    "bool": true
+   }
+  ],
+  [
+   "ExitTimeOut",
+   {
+    "integer": "30"
+   }
+  ],
+  [
+   "TimeOut",
+   {
+    "integer": "30"
+   }
+  ],
+  [
+   "ThrottleInterval",
+   {
+    "integer": "30"
+   }
+  ],
+  [
+   "Nice",
+   {
+    "integer": "-5"
+   }
+  ],
+  [
+   "ProcessType",
+   {
+    "string": "Interactive"
+   }
+  ]
+ ]
+}

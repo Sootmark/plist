@@ -1,0 +1,16 @@
+{
+ "dict": [
+  [
+   "Label",
+   {
+    "string": "foo"
+   }
+  ],
+  [
+   "Program",
+   {
+    "string": "/usr/bin/true"
+   }
+  ]
+ ]
+}

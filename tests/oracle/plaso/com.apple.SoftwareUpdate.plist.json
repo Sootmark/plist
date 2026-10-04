@@ -1,0 +1,121 @@
+{
+ "dict": [
+  [
+   "LastResultCode",
+   {
+    "integer": "2"
+   }
+  ],
+  [
+   "IgnoringUnseenRamped",
+   {
+    "bool": false
+   }
+  ],
+  [
+   "LastAttemptSystemVersion",
+   {
+    "string": "10.9.1 (13B42)"
+   }
+  ],
+  [
+   "LastBackgroundCCDSuccessfulDate",
+   {
+    "date": "2014-01-06T17:44:01.000000Z"
+   }
+  ],
+  [
+   "DidRegisterLocalUpdates",
+   {
+    "bool": true
+   }
+  ],
+  [
+   "LastUpdatesAvailable",
+   {
+    "integer": "1"
+   }
+  ],
+  [
+   "SkipLocalCDN",
+   {
+    "bool": false
+   }
+  ],
+  [
+   "LastRecommendedUpdatesAvailable",
+   {
+    "integer": "1"
+   }
+  ],
+  [
+   "RecommendedUpdates",
+   {
+    "array": [
+     {
+      "dict": [
+       [
+        "Identifier",
+        {
+         "string": "RAWCameraUpdate5.03"
+        }
+       ],
+       [
+        "Product Key",
+        {
+         "string": "031-2664"
+        }
+       ],
+       [
+        "Display Name",
+        {
+         "string": "Digital Camera RAW Compatibility Update"
+        }
+       ],
+       [
+        "Display Version",
+        {
+         "string": "5.03"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   "LastFullSuccessfulDate",
+   {
+    "date": "2014-01-06T17:43:48.000000Z"
+   }
+  ],
+  [
+   "PrimaryLanguages",
+   {
+    "array": [
+     {
+      "string": "en"
+     }
+    ]
+   }
+  ],
+  [
+   "LastSessionSuccessful",
+   {
+    "bool": true
+   }
+  ],
+  [
+   "LastBackgroundSuccessfulDate",
+   {
+    "date": "2014-01-06T17:44:01.000000Z"
+   }
+  ],
+  [
+   "LastSuccessfulDate",
+   {
+    "date": "2014-01-06T17:43:48.000000Z"
+   }
+  ]
+ ]
+}

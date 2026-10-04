@@ -1,0 +1,339 @@
+{
+ "array": [
+  {
+   "dict": [
+    [
+     "date",
+     {
+      "date": "2013-11-12T02:59:35.000000Z"
+     }
+    ],
+    [
+     "displayName",
+     {
+      "string": "OS X"
+     }
+    ],
+    [
+     "displayVersion",
+     {
+      "string": "10.9 (13A603)"
+     }
+    ],
+    [
+     "packageIdentifiers",
+     {
+      "array": [
+       {
+        "string": "com.apple.pkg.BaseSystemBinaries"
+       },
+       {
+        "string": "com.apple.pkg.BaseSystemResources"
+       },
+       {
+        "string": "com.apple.pkg.Essentials"
+       },
+       {
+        "string": "com.apple.pkg.BSD"
+       },
+       {
+        "string": "com.apple.pkg.JavaTools"
+       },
+       {
+        "string": "com.apple.pkg.AdditionalEssentials"
+       },
+       {
+        "string": "com.apple.pkg.AdditionalSpeechVoices"
+       },
+       {
+        "string": "com.apple.pkg.AsianLanguagesSupport"
+       },
+       {
+        "string": "com.apple.pkg.MediaFiles"
+       },
+       {
+        "string": "com.apple.pkg.JavaEssentials"
+       },
+       {
+        "string": "com.apple.pkg.OxfordDictionaries"
+       },
+       {
+        "string": "com.apple.pkg.X11redirect"
+       },
+       {
+        "string": "com.apple.pkg.OSInstall"
+       },
+       {
+        "string": "com.apple.pkg.update.compatibility.2013.001"
+       }
+      ]
+     }
+    ],
+    [
+     "processName",
+     {
+      "string": "OS X Installer"
+     }
+    ]
+   ]
+  },
+  {
+   "dict": [
+    [
+     "date",
+     {
+      "date": "2013-12-28T04:38:11.000000Z"
+     }
+    ],
+    [
+     "displayName",
+     {
+      "string": "VMware Tools"
+     }
+    ],
+    [
+     "displayVersion",
+     {
+      "string": "9.6.1"
+     }
+    ],
+    [
+     "packageIdentifiers",
+     {
+      "array": [
+       {
+        "string": "com.vmware.tools.macos.pkg.files"
+       }
+      ]
+     }
+    ],
+    [
+     "processName",
+     {
+      "string": "Installer"
+     }
+    ]
+   ]
+  },
+  {
+   "dict": [
+    [
+     "contentType",
+     {
+      "string": "config-data"
+     }
+    ],
+    [
+     "date",
+     {
+      "date": "2013-12-28T12:14:43.000000Z"
+     }
+    ],
+    [
+     "displayName",
+     {
+      "string": "XProtectPlistConfigData"
+     }
+    ],
+    [
+     "displayVersion",
+     {
+      "string": "1.0"
+     }
+    ],
+    [
+     "packageIdentifiers",
+     {
+      "array": [
+       {
+        "string": "com.apple.pkg.XProtectPlistConfigData.2-45"
+       }
+      ]
+     }
+    ],
+    [
+     "processName",
+     {
+      "string": "softwareupdated"
+     }
+    ]
+   ]
+  },
+  {
+   "dict": [
+    [
+     "contentType",
+     {
+      "string": "config-data"
+     }
+    ],
+    [
+     "date",
+     {
+      "date": "2013-12-28T12:14:43.000000Z"
+     }
+    ],
+    [
+     "displayName",
+     {
+      "string": "Core Services Application Configuration Data"
+     }
+    ],
+    [
+     "displayVersion",
+     {
+      "string": "1.0.25"
+     }
+    ],
+    [
+     "packageIdentifiers",
+     {
+      "array": [
+       {
+        "string": "com.apple.pkg.CoreServicesAppConfigData.2-9"
+       }
+      ]
+     }
+    ],
+    [
+     "processName",
+     {
+      "string": "softwareupdated"
+     }
+    ]
+   ]
+  },
+  {
+   "dict": [
+    [
+     "contentType",
+     {
+      "string": "config-data"
+     }
+    ],
+    [
+     "date",
+     {
+      "date": "2013-12-28T12:14:43.000000Z"
+     }
+    ],
+    [
+     "displayName",
+     {
+      "string": "Incompatible Kernel Extension Configuration Data"
+     }
+    ],
+    [
+     "displayVersion",
+     {
+      "string": "1.18.2"
+     }
+    ],
+    [
+     "packageIdentifiers",
+     {
+      "array": [
+       {
+        "string": "com.apple.pkg.IncompatibleKextConfigData.3-9"
+       }
+      ]
+     }
+    ],
+    [
+     "processName",
+     {
+      "string": "softwareupdated"
+     }
+    ]
+   ]
+  },
+  {
+   "dict": [
+    [
+     "contentType",
+     {
+      "string": "config-data"
+     }
+    ],
+    [
+     "date",
+     {
+      "date": "2013-12-28T12:14:43.000000Z"
+     }
+    ],
+    [
+     "displayName",
+     {
+      "string": "Chinese Word List Update"
+     }
+    ],
+    [
+     "displayVersion",
+     {
+      "string": "2.1"
+     }
+    ],
+    [
+     "packageIdentifiers",
+     {
+      "array": [
+       {
+        "string": "com.apple.pkg.ChineseWordlistUpdate.5-17"
+       }
+      ]
+     }
+    ],
+    [
+     "processName",
+     {
+      "string": "softwareupdated"
+     }
+    ]
+   ]
+  },
+  {
+   "dict": [
+    [
+     "contentType",
+     {
+      "string": "config-data"
+     }
+    ],
+    [
+     "date",
+     {
+      "date": "2014-01-28T20:38:48.000000Z"
+     }
+    ],
+    [
+     "displayName",
+     {
+      "string": "Chinese Word List Update"
+     }
+    ],
+    [
+     "displayVersion",
+     {
+      "string": "2.2"
+     }
+    ],
+    [
+     "packageIdentifiers",
+     {
+      "array": [
+       {
+        "string": "com.apple.pkg.ChineseWordlistUpdate.5-30"
+       }
+      ]
+     }
+    ],
+    [
+     "processName",
+     {
+      "string": "softwareupdated"
+     }
+    ]
+   ]
+  }
+ ]
+}

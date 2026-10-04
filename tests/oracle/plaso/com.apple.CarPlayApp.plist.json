@@ -1,0 +1,53 @@
+{
+ "dict": [
+  [
+   "CARStartApplicationBundleID",
+   {
+    "string": "com.apple.Music"
+   }
+  ],
+  [
+   "CARStartPageIndex",
+   {
+    "integer": "101"
+   }
+  ],
+  [
+   "CARRecentAppHistory",
+   {
+    "dict": [
+     [
+      "com.apple.mobilecal",
+      {
+       "real": "41d7a4c779d055c5"
+      }
+     ],
+     [
+      "com.apple.cardisplay.nowplaying",
+      {
+       "real": "41d7a4c939f67111"
+      }
+     ],
+     [
+      "com.apple.Maps",
+      {
+       "real": "41d7a4c77a49ad7a"
+      }
+     ],
+     [
+      "com.apple.mobilephone",
+      {
+       "real": "41d7a4c805ac378f"
+      }
+     ],
+     [
+      "com.apple.Music",
+      {
+       "real": "41d7a4c939f632a0"
+      }
+     ]
+    ]
+   }
+  ]
+ ]
+}

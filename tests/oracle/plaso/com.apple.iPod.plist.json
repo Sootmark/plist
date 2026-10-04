@@ -1,0 +1,303 @@
+{
+ "dict": [
+  [
+   "Devices",
+   {
+    "dict": [
+     [
+      "0000A11300000000",
+      {
+       "dict": [
+        [
+         "Connected",
+         {
+          "date": "1995-11-22T18:25:07.000000Z"
+         }
+        ],
+        [
+         "Device Class",
+         {
+          "string": "iPad"
+         }
+        ],
+        [
+         "Family ID",
+         {
+          "integer": "10006"
+         }
+        ],
+        [
+         "Firmware Version",
+         {
+          "integer": "256"
+         }
+        ],
+        [
+         "Firmware Version String",
+         {
+          "string": "5.0.1"
+         }
+        ],
+        [
+         "ID",
+         {
+          "string": "0000A11300000000"
+         }
+        ],
+        [
+         "Region Info",
+         {
+          "string": "C/A"
+         }
+        ],
+        [
+         "Serial Number",
+         {
+          "string": "A009A113Q00"
+         }
+        ],
+        [
+         "Updater Family ID",
+         {
+          "integer": "10006"
+         }
+        ],
+        [
+         "Use Count",
+         {
+          "integer": "5"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "0DEADBEEF00F0A20",
+      {
+       "dict": [
+        [
+         "Connected",
+         {
+          "date": "2014-04-30T17:50:22.000000Z"
+         }
+        ],
+        [
+         "Device Class",
+         {
+          "string": "iPhone"
+         }
+        ],
+        [
+         "Family ID",
+         {
+          "integer": "10035"
+         }
+        ],
+        [
+         "Firmware Version",
+         {
+          "integer": "256"
+         }
+        ],
+        [
+         "Firmware Version String",
+         {
+          "string": "7.0.3"
+         }
+        ],
+        [
+         "ID",
+         {
+          "string": "0DEADBEEF00F0A20"
+         }
+        ],
+        [
+         "IMEI",
+         {
+          "string": "005550123044440"
+         }
+        ],
+        [
+         "Region Info",
+         {
+          "string": "LL/A"
+         }
+        ],
+        [
+         "Serial Number",
+         {
+          "string": "ADALTHING012"
+         }
+        ],
+        [
+         "Updater Family ID",
+         {
+          "integer": "10035"
+         }
+        ],
+        [
+         "Use Count",
+         {
+          "integer": "18"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "00000000012E4737",
+      {
+       "dict": [
+        [
+         "Connected",
+         {
+          "date": "2011-10-03T08:14:21.000000Z"
+         }
+        ],
+        [
+         "Device Class",
+         {
+          "string": "iPad"
+         }
+        ],
+        [
+         "Family ID",
+         {
+          "integer": "10023"
+         }
+        ],
+        [
+         "Firmware Version",
+         {
+          "integer": "256"
+         }
+        ],
+        [
+         "Firmware Version String",
+         {
+          "string": "7.0"
+         }
+        ],
+        [
+         "ID",
+         {
+          "string": "00000000012E4737"
+         }
+        ],
+        [
+         "IMEI",
+         {
+          "string": "01133557799BBDD"
+         }
+        ],
+        [
+         "Region Info",
+         {
+          "string": "LL/A"
+         }
+        ],
+        [
+         "Serial Number",
+         {
+          "string": "RJUPNASALIR12"
+         }
+        ],
+        [
+         "Updater Family ID",
+         {
+          "integer": "10023"
+         }
+        ],
+        [
+         "Use Count",
+         {
+          "integer": "7"
+         }
+        ]
+       ]
+      }
+     ],
+     [
+      "4C6F6F6E65000000",
+      {
+       "dict": [
+        [
+         "Connected",
+         {
+          "date": "2013-10-09T19:27:54.000000Z"
+         }
+        ],
+        [
+         "Device Class",
+         {
+          "string": "iPhone"
+         }
+        ],
+        [
+         "Family ID",
+         {
+          "integer": "10016"
+         }
+        ],
+        [
+         "Firmware Version",
+         {
+          "integer": "256"
+         }
+        ],
+        [
+         "Firmware Version String",
+         {
+          "string": "7.0"
+         }
+        ],
+        [
+         "ID",
+         {
+          "string": "4C6F6F6E65000000"
+         }
+        ],
+        [
+         "IMEI",
+         {
+          "string": "012345678901234"
+         }
+        ],
+        [
+         "Region Info",
+         {
+          "string": "LL/A"
+         }
+        ],
+        [
+         "Serial Number",
+         {
+          "string": "526F676572"
+         }
+        ],
+        [
+         "Updater Family ID",
+         {
+          "integer": "10016"
+         }
+        ],
+        [
+         "Use Count",
+         {
+          "integer": "1"
+         }
+        ]
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "com.apple.PreferenceSync.ExcludeAllSyncKeys",
+   {
+    "data": "69b71d79f821"
+   }
+  ]
+ ]
+}

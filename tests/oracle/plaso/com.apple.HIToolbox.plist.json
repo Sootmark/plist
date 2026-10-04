@@ -1,0 +1,64 @@
+{
+ "dict": [
+  [
+   "AppleDefaultAsciiInputSource",
+   {
+    "dict": [
+     [
+      "InputSourceKind",
+      {
+       "string": "Keyboard Layout"
+      }
+     ],
+     [
+      "KeyboardLayout Name",
+      {
+       "string": "U.S."
+      }
+     ],
+     [
+      "KeyboardLayout ID",
+      {
+       "integer": "0"
+      }
+     ]
+    ]
+   }
+  ],
+  [
+   "AppleCurrentKeyboardLayoutInputSourceID",
+   {
+    "string": "com.apple.keylayout.US"
+   }
+  ],
+  [
+   "AppleEnabledInputSources",
+   {
+    "array": [
+     {
+      "dict": [
+       [
+        "InputSourceKind",
+        {
+         "string": "Keyboard Layout"
+        }
+       ],
+       [
+        "KeyboardLayout Name",
+        {
+         "string": "U.S."
+        }
+       ],
+       [
+        "KeyboardLayout ID",
+        {
+         "integer": "0"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  ]
+ ]
+}
